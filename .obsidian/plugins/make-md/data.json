@@ -2,7 +2,7 @@
   "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
   "navigatorEnabled": true,
-  "filePreviewOnHover": true,
+  "filePreviewOnHover": false,
   "blinkEnabled": true,
   "datePickerTime": false,
   "imageThumbnails": false,
@@ -40,10 +40,10 @@
   "expandedSpaces": [
     "Characters/Characters.base",
     "Welcome to.md",
-    "Characters",
     "Creatures",
-    "World",
-    "Lore"
+    "Lore",
+    "Bookmarks",
+    "Characters"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
