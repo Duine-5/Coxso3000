@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8adae1cd7a0b1f23",
+        "id": "d9b99ce21754f672",
         "type": "tabs",
         "children": [
           {
-            "id": "70ea6d7ecb87977f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e75b6881f00e6af9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Jazmine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jazmine"
-            }
-          },
-          {
-            "id": "b110b471d0a6dff3",
+            "id": "996c78e4834e66de",
             "type": "leaf",
             "state": {
               "type": "mk-space",
@@ -42,61 +18,8 @@
               "icon": "lucide-file",
               "title": "Characters"
             }
-          },
-          {
-            "id": "36114fd22bbfa81c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Jamril Valmont.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jamril Valmont"
-            }
-          },
-          {
-            "id": "766879877462c915",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "23776f499b9c76ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/J.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "J"
-            }
-          },
-          {
-            "id": "2dcebc5d3593291a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Landing Page.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Landing Page"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,18 +31,16 @@
       {
         "id": "67aa9abe98eee488",
         "type": "tabs",
+        "dimension": 63.729508196721305,
         "children": [
           {
-            "id": "90c9cab6a4eb3a84",
+            "id": "f20cfc38d31286ac",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           },
           {
@@ -150,21 +71,24 @@
             }
           },
           {
-            "id": "95a1f7e3656101ad",
+            "id": "90c9cab6a4eb3a84",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "f5e1b78025e7a7f1",
         "type": "tabs",
+        "dimension": 36.27049180327869,
         "children": [
           {
             "id": "3e0c3ca818cda012",
@@ -199,15 +123,10 @@
               "state": {
                 "calendar": "ID_c88a9bca1b18",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 18,
-                    "month": 4,
-                    "year": 3000
-                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 25,
-                    "month": 4,
+                    "month": 9,
                     "year": 3000
                   },
                   "displayDayNumber": false,
@@ -235,8 +154,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "4f3a05be8e8c84c3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1b182adc223c11f5",
@@ -308,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 670.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,31 +250,41 @@
       "graph:Open graph view": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false,
-      "templater-obsidian:Templater": false,
-      "iconic:Open rulebook": false
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "95a1f7e3656101ad",
+  "active": "996c78e4834e66de",
   "lastOpenFiles": [
-    "Characters/Characters.md",
-    "Creatures/Creatures.md",
+    "Characters/Tabris.md",
+    "Characters/Jazmine.md",
+    "Characters/Glacia.md",
+    "Characters/J.md",
     "Characters/Jamril Valmont.md",
+    "Characters/Characters.md",
+    "Attachments/Textures/Cha-Bg.jpg",
+    "Welcome to.md",
+    "Bookmarks/Untitled.md",
+    "Bookmarks/Bookmarks.md",
+    "Bookmarks",
+    "Lore/Lore.md",
+    "Lore",
     "World/World.md",
+    "World/Night City.md",
+    "Attachments/Textures",
+    "Tags",
+    "Characters/Untitled.md",
+    "Attachments/Characters/J/IMG-J.png",
+    "Attachments/Characters/Jazmine",
+    "Attachments/Characters/Jazmine/IMG-Jazmine.png",
+    "Creatures/Creatures.md",
     "World",
     "Creatures",
-    "Characters/J.md",
     "Attachments/Characters/Jamril Valmont",
     "Templates/Character.md",
-    "Characters/Glacia.md",
-    "Characters/Jazmine.md",
     "Attachments/Characters/J",
     "Attachments/Characters/Untitled/IMG-Untitled.png",
-    "Attachments/Characters/J/IMG-J.png",
     "Attachments/Characters/Untitled",
-    "Attachments/Characters",
     "Attachments/J.png",
-    "Landing Page.md",
     "Pasted image 20250914200013.png",
     "Vault.md",
     "Untitled 1.md",
@@ -355,14 +295,7 @@
     "Characters/Untitled 2.md",
     "Templates/Templates.md",
     "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.jpg",
-    "Characters/Characters.base",
     "Intro.md",
-    "Tags",
-    "Attachments",
-    "Templates",
-    "2025-09-14.md",
-    "Untitled Kanban.md",
-    "Welcome.md",
-    "Luis se saca los mocso.md"
+    "2025-09-14.md"
   ]
 }

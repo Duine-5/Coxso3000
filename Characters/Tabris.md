@@ -4,17 +4,15 @@ Type:
 Status:
   - Alive
 Race:
-  - Unknown
+  - Changeling
 aliases:
 Allegiance:
 Spellcaster level:
-banner:
-Appearance: Attachments/Characters/J/IMG-J.png
 ---
 # Description
 > [!Infobox|right]+
 > # `= this.file.name`
-> ![[IMG-J.png]]
+> img
 > ## 
 > | Race: |  `= this.Race` |
 > | ---- | ---- |
@@ -29,8 +27,7 @@ Appearance: Attachments/Characters/J/IMG-J.png
 # Lore
 ---
 
+
+
 # Relationships
-[[Tabris]] - Besto friendo
-[[Grillo]] - Friendo
-[[Dario]] - Friendo
-[[Fanto]] - 
+

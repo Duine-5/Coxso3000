@@ -1,7 +1,7 @@
 {
   "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
-  "navigatorEnabled": false,
+  "navigatorEnabled": true,
   "filePreviewOnHover": false,
   "blinkEnabled": true,
   "datePickerTime": false,
@@ -38,24 +38,22 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "Templates",
-    "Creatures",
-    "World",
+    "/",
+    "Tags",
+    "Bookmarks",
     "Characters"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [
-    "Tags",
-    "Attachments"
-  ],
+  "hiddenFiles": [],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "current",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
