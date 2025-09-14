@@ -8,11 +8,13 @@ Race:
 aliases:
 Allegiance:
 Spellcaster level:
+Modified: Sep 15, 2025 1:41 AM
+Appearance: ""
 ---
 # Description
 > [!Infobox|right]+
 > # `= this.file.name`
-> img
+> ![[IMG-Tabris.jpg]]
 > ## 
 > | Race: |  `= this.Race` |
 > | ---- | ---- |
@@ -21,13 +23,12 @@ Spellcaster level:
 
 ---
 
-## Ideals
+## Ideals 
 ---
 
 # Lore
 ---
 
-
-
 # Relationships
-
+- [[J]] i just modified t his
+- 

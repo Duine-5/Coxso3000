@@ -5,6 +5,7 @@ Race: Fiend
 aliases:
 Allegiance:
 Spellcaster level:
+Modified: Sep 15, 2025 1:34 AM
 ---
 # Description
 > [!Infobox|right]+

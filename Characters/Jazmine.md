@@ -7,6 +7,7 @@ aliases:
 Allegiance:
 Spellcaster level:
 Appearance: Attachments/Characters/Jazmine/IMG-Jazmine.png
+Modified: Sep 15, 2025 1:34 AM
 ---
 # Description
 > [!Infobox|right]+
@@ -30,3 +31,4 @@ Appearance: Attachments/Characters/Jazmine/IMG-Jazmine.png
 
 # Relationships
 [[Jamril Valmont]] - Father
+fasdfasfd

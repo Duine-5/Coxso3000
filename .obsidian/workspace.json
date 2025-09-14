@@ -37,22 +37,12 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "pinned": true,
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
-            "id": "babb84410ecf07f9",
-            "type": "leaf",
-            "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false
               },
+              "pinned": true,
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
@@ -83,8 +73,19 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "1682ab4a3470fb4a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -238,17 +239,18 @@
   },
   "active": "e4aa493ce70dfc45",
   "lastOpenFiles": [
+    "Characters/Jazmine.md",
+    "Characters/J.md",
+    "Characters/Glacia.md",
+    "Characters/Jamril Valmont.md",
+    "Characters/Tabris.md",
+    "Attachments/Characters/IMG-Tabris.jpg",
     "World/World.md",
     "Creatures/Creatures.md",
     "Characters/Untitled.md",
-    "Characters/Jazmine.md",
-    "Characters/Jamril Valmont.md",
-    "Characters/Glacia.md",
-    "Characters/J.md",
     "Welcome to.md",
     "Characters/Characters.md",
     "Lore/Lore.md",
-    "Characters/Tabris.md",
     "Bookmarks/Bookmarks.md",
     "Attachments/Textures/Cha-Bg.jpg",
     "Bookmarks/Untitled.md",
