@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Characters")
+    order:
+      - file.name
+  - type: cards
+    name: View
+    image: file.file
