@@ -3,6 +3,8 @@ Type:
   - PC
 Status:
   - Alive
+Race:
+  - Elf
 ---
 # Welcome to hell
 
@@ -11,7 +13,7 @@ Status:
 > # Jamril
 > ![[Jamril.jpg]]
 > ## heeelp
-> | Type | Stat |
+> | Type | '= this.Race' |
 > | ---- | ---- |
 > | Test | Testing |
 > | Test | Testing |

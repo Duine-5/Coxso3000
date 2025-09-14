@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Type": "multitext",
-    "Status": "multitext"
+    "Status": "multitext",
+    "Race": "multitext"
   }
 }
