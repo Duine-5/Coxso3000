@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Character.md",
-                "mode": "source",
+                "file": "Templates/Jamr.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character"
+              "title": "Jamr"
             }
           }
         ]
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Character.md",
+                "file": "Templates/Jamr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Character"
+              "title": "Backlinks for Jamr"
             }
           },
           {
@@ -182,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Character.md",
+                "file": "Templates/Jamr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Character"
+              "title": "Outgoing links from Jamr"
             }
           },
           {
@@ -211,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Character.md",
+                "file": "Templates/Jamr.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Character"
+              "title": "Outline of Jamr"
             }
           }
         ],
@@ -241,10 +241,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "70ea6d7ecb87977f",
+  "active": "90c9cab6a4eb3a84",
   "lastOpenFiles": [
+    "Attachments",
+    "Templates/Jamr.md",
+    "Jamril.jpg",
     "Characters.base",
-    "Templates/Character.md",
     "Intro.md",
     "Characters/Jamril.md",
     "Templates",
