@@ -39,6 +39,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "Templates",
+    "Creatures",
+    "World",
     "Characters"
   ],
   "expandFolderOnClick": true,

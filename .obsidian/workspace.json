@@ -35,14 +35,12 @@
             "id": "b110b471d0a6dff3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Characters/Jamril Valmont.md",
-                "mode": "preview",
-                "source": false
+                "path": "Characters"
               },
               "icon": "lucide-file",
-              "title": "Jamril Valmont"
+              "title": "Characters"
             }
           },
           {
@@ -161,7 +159,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "f5e1b78025e7a7f1",
@@ -250,7 +249,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Jamril Valmont.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +258,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jamril Valmont"
+              "title": "Backlinks"
             }
           },
           {
@@ -269,12 +267,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Jamril Valmont.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jamril Valmont"
+              "title": "Outgoing links"
             }
           },
           {
@@ -298,13 +295,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Jamril Valmont.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jamril Valmont"
+              "title": "Outline"
             }
           }
         ],
@@ -325,18 +321,23 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "calendarium:Open Calendarium": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "iconic:Open rulebook": false
     }
   },
-  "active": "b110b471d0a6dff3",
+  "active": "95a1f7e3656101ad",
   "lastOpenFiles": [
-    "Characters/J.md",
+    "Characters/Characters.md",
+    "Creatures/Creatures.md",
     "Characters/Jamril Valmont.md",
+    "World/World.md",
+    "World",
+    "Creatures",
+    "Characters/J.md",
     "Attachments/Characters/Jamril Valmont",
     "Templates/Character.md",
     "Characters/Glacia.md",
     "Characters/Jazmine.md",
-    "Characters/Characters.md",
     "Attachments/Characters/J",
     "Attachments/Characters/Untitled/IMG-Untitled.png",
     "Attachments/Characters/J/IMG-J.png",
@@ -361,8 +362,6 @@
     "Templates",
     "2025-09-14.md",
     "Untitled Kanban.md",
-    "Untitled 1",
-    "Characters",
     "Welcome.md",
     "Luis se saca los mocso.md"
   ]

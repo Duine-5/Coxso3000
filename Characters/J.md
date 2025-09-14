@@ -31,4 +31,4 @@ Spellcaster level:
 [[Yo]] - Besto friendo
 [[Grillo]] - Friendo
 [[Dario]] - Friendo
-[[Fanto]] - Friendo
+[[Fanto]] - 
