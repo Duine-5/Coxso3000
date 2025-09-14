@@ -4,24 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "68a1a77e986df759",
+        "id": "8adae1cd7a0b1f23",
         "type": "tabs",
         "children": [
           {
-            "id": "a786f37b19399186",
+            "id": "70ea6d7ecb87977f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b979803eaee7fe58",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_c88a9bca1b18",
+                "ephemeral": {
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 3000
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": false,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_bb6a19d8ca1a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +151,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro"
+              "title": "Outgoing links"
             }
           },
           {
@@ -158,36 +179,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro"
-            }
-          },
-          {
-            "id": "df248a7facf6fbf2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "d74258f18dd2ee44",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,13 +208,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "90c9cab6a4eb3a84",
+  "active": "b979803eaee7fe58",
   "lastOpenFiles": [
+    "2025-09-14.md",
+    "Intro.md",
     "Untitled.base",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
-    "Intro.md",
     "Untitled Kanban.md",
     "Untitled 1",
     "Characters",
