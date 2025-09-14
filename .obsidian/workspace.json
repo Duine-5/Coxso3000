@@ -13,82 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro.md",
+                "file": "Templates/Character.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
-            }
-          },
-          {
-            "id": "5c3c50aede42a082",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_c88a9bca1b18",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 25,
-                    "month": 0,
-                    "year": 3000
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_c81b6a8938bb"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "4922eaba6e111a2a",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Characters/Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "97ab855d5d22fd9c",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_c88a9bca1b18",
-                "ephemeral": {
-                  "viewState": 0,
-                  "displaying": {
-                    "day": 25,
-                    "month": 0,
-                    "year": 3000
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_7ba9d8a95978"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "title": "Character"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,8 +101,61 @@
     "type": "split",
     "children": [
       {
+        "id": "7b4cb51df0012987",
+        "type": "tabs",
+        "dimension": 44.31372549019608,
+        "children": [
+          {
+            "id": "2166b3787e9fe4c8",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_c88a9bca1b18",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 18,
+                    "month": 4,
+                    "year": 3000
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 25,
+                    "month": 4,
+                    "year": 3000
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_cb29cbbaa9e9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "d6b2d2fa2159edd9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
         "id": "1b182adc223c11f5",
         "type": "tabs",
+        "dimension": 55.68627450980392,
         "children": [
           {
             "id": "fb78ec25aea9c9b8",
@@ -177,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Untitled.base",
+                "file": "Templates/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Character"
             }
           },
           {
@@ -196,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Untitled.base",
+                "file": "Templates/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Character"
             }
           },
           {
@@ -225,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Untitled.base",
+                "file": "Templates/Character.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Character"
             }
           }
         ],
@@ -255,11 +241,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "97ab855d5d22fd9c",
+  "active": "70ea6d7ecb87977f",
   "lastOpenFiles": [
-    "2025-09-14.md",
     "Intro.md",
-    "Characters/Untitled.base",
+    "Templates/Character.md",
+    "Characters/Jamril.md",
+    "Templates",
+    "Characters.base",
+    "2025-09-14.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
