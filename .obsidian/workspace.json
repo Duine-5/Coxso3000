@@ -22,7 +22,47 @@
             }
           },
           {
-            "id": "c2fc17b58a0cdf7c",
+            "id": "5c3c50aede42a082",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_c88a9bca1b18",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 25,
+                    "month": 0,
+                    "year": 3000
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_c81b6a8938bb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "4922eaba6e111a2a",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Characters/Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "97ab855d5d22fd9c",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -33,7 +73,7 @@
                   "displaying": {
                     "day": 25,
                     "month": 0,
-                    "year": 2999
+                    "year": 3000
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -41,14 +81,14 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_b86a3bf9eb28"
+                "id": "ID_7ba9d8a95978"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,39 +168,6 @@
     "type": "split",
     "children": [
       {
-        "id": "00aded6d3c43d643",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b60f63703407af3",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_c88a9bca1b18",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 22,
-                    "month": 9,
-                    "year": 3000
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeeks": false,
-                  "displayWeather": true
-                },
-                "id": "ID_e96bf8eb28fa"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          }
-        ]
-      },
-      {
         "id": "1b182adc223c11f5",
         "type": "tabs",
         "children": [
@@ -170,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro.md",
+                "file": "Characters/Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -189,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro.md",
+                "file": "Characters/Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -218,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro.md",
+                "file": "Characters/Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro"
+              "title": "Outline of Untitled"
             }
           }
         ],
@@ -248,11 +255,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "c2fc17b58a0cdf7c",
+  "active": "97ab855d5d22fd9c",
   "lastOpenFiles": [
-    "Untitled.base",
     "2025-09-14.md",
     "Intro.md",
+    "Characters/Untitled.base",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",

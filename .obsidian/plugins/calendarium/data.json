@@ -163,8 +163,8 @@
         "moons": [
           {
             "name": "Moon",
-            "cycle": 29,
-            "offset": 8,
+            "cycle": 28,
+            "offset": 1,
             "faceColor": "#ffffff",
             "shadowColor": "#000",
             "id": "ID_a96beb3ae899"
@@ -188,7 +188,7 @@
             "type": "Periodic",
             "kind": "None",
             "duration": 91,
-            "peak": 60,
+            "peak": 0,
             "weatherOffset": 56,
             "weatherPeak": 5.6000000000000005
           },
@@ -199,7 +199,7 @@
             "type": "Periodic",
             "kind": "None",
             "duration": 91,
-            "peak": 60,
+            "peak": 0,
             "weatherOffset": 56,
             "weatherPeak": 5.6000000000000005
           },
@@ -210,7 +210,7 @@
             "type": "Periodic",
             "kind": "None",
             "duration": 91,
-            "peak": 60,
+            "peak": 0,
             "weatherOffset": 56,
             "weatherPeak": 5.6000000000000005
           },
@@ -221,7 +221,7 @@
             "type": "Periodic",
             "kind": "None",
             "duration": 91,
-            "peak": 60,
+            "peak": 0,
             "weatherOffset": 56,
             "weatherPeak": 5.6000000000000005
           }
