@@ -1,3 +1,9 @@
 {
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "S - Callouts"
+  ]
 }
