@@ -1,7 +1,10 @@
 ---
 Type:
+  - PC
 Status:
+  - Alive
 Race:
+  - Unknown
 aliases:
 Allegiance:
 Spellcaster level:
@@ -9,7 +12,7 @@ Spellcaster level:
 # Description
 > [!Infobox|right]+
 > # `= this.file.name`
-> img
+> ![[IMG-J.png]]
 > ## 
 > | Race: |  `= this.Race` |
 > | ---- | ---- |
@@ -24,7 +27,8 @@ Spellcaster level:
 # Lore
 ---
 
-
-
 # Relationships
-
+[[Yo]] - Besto friendo
+[[Grillo]] - Friendo
+[[Dario]] - Friendo
+[[Fanto]] - Friendo

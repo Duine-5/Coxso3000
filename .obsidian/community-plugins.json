@@ -4,5 +4,7 @@
   "dataview",
   "obsidian-kanban",
   "obsidian-style-settings",
-  "make-md"
+  "make-md",
+  "attachment-management",
+  "templater-obsidian"
 ]

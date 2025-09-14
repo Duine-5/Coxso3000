@@ -9,7 +9,7 @@ Spellcaster level:
 # Description
 > [!Infobox|right]+
 > # `= this.file.name`
-> img
+> ![[.jpg]]
 > ## 
 > | Race: |  `= this.Race` |
 > | ---- | ---- |

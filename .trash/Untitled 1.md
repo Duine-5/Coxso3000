@@ -6,10 +6,10 @@ aliases:
 Allegiance:
 Spellcaster level:
 ---
-# Description
+escription
 > [!Infobox|right]+
 > # `= this.file.name`
-> img
+> ![[.jpg]]
 > ## 
 > | Race: |  `= this.Race` |
 > | ---- | ---- |

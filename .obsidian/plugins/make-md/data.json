@@ -38,15 +38,16 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "Characters",
-    "Templates"
+    "Templates",
+    "Characters"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
   "hiddenFiles": [
-    "Tags"
+    "Tags",
+    "Attachments"
   ],
   "hiddenExtensions": [
     ".mdb",

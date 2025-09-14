@@ -5,6 +5,8 @@
     "tags": "tags",
     "Type": "multitext",
     "Status": "multitext",
-    "Race": "multitext"
+    "Race": "multitext",
+    "Allegiance": "multitext",
+    "Spellcaster": "number"
   }
 }

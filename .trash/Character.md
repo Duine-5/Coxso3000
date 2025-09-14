@@ -1,23 +1,21 @@
 ---
-Type:
-  - PC
-Status:
-  - Alive
-Race:
-  - Elf
+Type: []
+Status: []
+Race: []
 ---
-# Welcome to hell
+# 
 
 
 > [!Infobox|right]
 > # Jamril
 > ![[Jamril.jpg]]
 > ## heeelp
-> | Type | '= this.Race' |
+> | Race | Race: '= this.Race' |
 > | ---- | ---- |
 > | Test | Testing |
 > | Test | Testing |
 
 
-Soi un vampirooo
 
+
+ Race: '= this.Race'
