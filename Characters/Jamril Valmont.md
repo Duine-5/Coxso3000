@@ -20,7 +20,7 @@ Appearance: Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.jpg
 
 > [!Infobox|right]+
 > # `= this.file.name`
-> ![[IMG-Jamril Valmont.jpg]]
+> ![[IMG-Jamril Valmont.jpg|226]]
 > ## Archdevil of Hell
 > | Race: |  `= this.Race` |
 > | ---- | ---- |

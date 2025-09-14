@@ -14,7 +14,7 @@ Appearance: Attachments/Characters/J/IMG-J.png
 # Description
 > [!Infobox|right]+
 > # `= this.file.name`
-> ![[IMG-J.png]]
+> ![[IMG-J.png|250]]
 > ## 
 > | Race: |  `= this.Race` |
 > | ---- | ---- |

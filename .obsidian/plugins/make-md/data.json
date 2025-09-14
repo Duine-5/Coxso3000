@@ -3,7 +3,7 @@
   "defaultInitialization": false,
   "navigatorEnabled": true,
   "filePreviewOnHover": false,
-  "blinkEnabled": true,
+  "blinkEnabled": false,
   "datePickerTime": false,
   "imageThumbnails": false,
   "noteThumbnails": false,
@@ -42,12 +42,14 @@
     "Welcome to.md",
     "Creatures",
     "Lore",
-    "Bookmarks",
-    "Characters"
+    "Bookmarks"
   ],
-  "expandFolderOnClick": true,
+  "expandFolderOnClick": false,
   "spacesFolder": "Tags",
-  "suppressedWarnings": [],
+  "suppressedWarnings": [
+    "obsidian-sync-space-folder",
+    "obsidian-sync-space-config"
+  ],
   "spaceSubFolder": ".space",
   "hiddenFiles": [],
   "hiddenExtensions": [

@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8475bb109e3f90f",
+        "id": "e911372952c01108",
         "type": "tabs",
         "children": [
           {
-            "id": "e05d149c7c8d826e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Glacia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glacia"
-            }
-          },
-          {
-            "id": "619155c1945a5f63",
+            "id": "e4aa493ce70dfc45",
             "type": "leaf",
             "state": {
               "type": "mk-space",
@@ -194,12 +180,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Glacia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Glacia"
+              "title": "Outgoing links"
             }
           },
           {
@@ -251,17 +236,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e05d149c7c8d826e",
+  "active": "e4aa493ce70dfc45",
   "lastOpenFiles": [
-    "Characters/J.md",
-    "Characters/Glacia.md",
+    "World/World.md",
+    "Creatures/Creatures.md",
+    "Characters/Untitled.md",
     "Characters/Jazmine.md",
+    "Characters/Jamril Valmont.md",
+    "Characters/Glacia.md",
+    "Characters/J.md",
     "Welcome to.md",
     "Characters/Characters.md",
-    "World/World.md",
     "Lore/Lore.md",
     "Characters/Tabris.md",
-    "Characters/Jamril Valmont.md",
     "Bookmarks/Bookmarks.md",
     "Attachments/Textures/Cha-Bg.jpg",
     "Bookmarks/Untitled.md",
@@ -270,11 +257,9 @@
     "World/Night City.md",
     "Attachments/Textures",
     "Tags",
-    "Characters/Untitled.md",
     "Attachments/Characters/J/IMG-J.png",
     "Attachments/Characters/Jazmine",
     "Attachments/Characters/Jazmine/IMG-Jazmine.png",
-    "Creatures/Creatures.md",
     "World",
     "Creatures",
     "Attachments/Characters/Jamril Valmont",

@@ -11,7 +11,7 @@ Appearance: Attachments/Characters/Jazmine/IMG-Jazmine.png
 # Description
 > [!Infobox|right]+
 > # `= this.file.name`
-> ![[IMG-Jazmine.png]]
+> ![[IMG-Jazmine.png|275]]
 > ## 
 > | Race: |  `= this.Race` |
 > | ---- | ---- |
