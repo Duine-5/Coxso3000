@@ -1,10 +1,263 @@
 {
   "autoParse": false,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Coxso",
+      "description": "",
+      "id": "ID_c88a9bca1b18",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Agrid",
+            "id": "ID_9abb88a93aab"
+          },
+          {
+            "type": "day",
+            "name": "Sulna",
+            "id": "ID_5b698abb4ab9"
+          },
+          {
+            "type": "day",
+            "name": "Frimir",
+            "id": "ID_2a289bbb2b09"
+          },
+          {
+            "type": "day",
+            "name": "Wirnya",
+            "id": "ID_388b5b29d9b9"
+          },
+          {
+            "type": "day",
+            "name": "Eyre",
+            "id": "ID_6b39fb7bd898"
+          },
+          {
+            "type": "day",
+            "name": "Mimir",
+            "id": "ID_e92a38982af9"
+          },
+          {
+            "type": "day",
+            "name": "Ygdra",
+            "id": "ID_091849ead9c8"
+          },
+          {
+            "type": "day",
+            "name": "Sypheros",
+            "id": "ID_7b59885bab58"
+          },
+          {
+            "type": "day",
+            "name": "Vult",
+            "id": "ID_8af8ba4868ea"
+          },
+          {
+            "type": "day",
+            "name": "Zarantyr",
+            "id": "ID_58e9bb8aca0a"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Hammer",
+            "length": 31,
+            "id": "ID_e8d99849ea78",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Alturiak",
+            "length": 30,
+            "id": "ID_d8b9fa89cb29",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ches",
+            "length": 30,
+            "id": "ID_4a2a79283849",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Tarsakh",
+            "length": 31,
+            "id": "ID_aac818c90bca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mirtul",
+            "length": 30,
+            "id": "ID_988b88faa979",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Kythorn",
+            "length": 30,
+            "id": "ID_990b5bbbb85b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Flamerule",
+            "length": 31,
+            "id": "ID_3969b989cb2a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Eleasias",
+            "length": 30,
+            "id": "ID_6b9a282b6a0b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Eleint",
+            "length": 30,
+            "id": "ID_288bbb2b1999",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Marpenoth",
+            "length": 31,
+            "id": "ID_8b5829f8d928",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Uktar",
+            "length": 30,
+            "id": "ID_e919e90b2a89",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Nightal",
+            "length": 30,
+            "id": "ID_ab79199a5b69",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29,
+            "offset": 8,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_a96beb3ae899"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "years": [],
+        "useCustomYears": false,
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_d87a4a7a6bc8",
+            "name": "Spring",
+            "color": "#17ac0c",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 91,
+            "peak": 60,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_997a2ae8abab",
+            "name": "Summer",
+            "color": "#d0740b",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 91,
+            "peak": 60,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_09fb7b9b0948",
+            "name": "Autum",
+            "color": "#c8b90e",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 91,
+            "peak": 60,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          },
+          {
+            "id": "ID_19d809abf878",
+            "name": "Winter",
+            "color": "#07c7ed",
+            "type": "Periodic",
+            "kind": "None",
+            "duration": 91,
+            "peak": 60,
+            "weatherOffset": 56,
+            "weatherPeak": 5.6000000000000005
+          }
+        ],
+        "offset": 80,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 594505345,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 25,
+        "month": 9,
+        "year": 3000
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "YYYY-MM-DD"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_c88a9bca1b18",
   "eventPreview": false,
   "exit": {
     "saving": false,
@@ -13,7 +266,7 @@
     "savingEvent": false
   },
   "eventFrontmatter": false,
-  "parseDates": false,
+  "parseDates": true,
   "version": {
     "major": 2,
     "minor": 0,

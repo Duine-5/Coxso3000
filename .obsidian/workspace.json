@@ -11,14 +11,18 @@
             "id": "70ea6d7ecb87977f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intro.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intro"
             }
           },
           {
-            "id": "b979803eaee7fe58",
+            "id": "c2fc17b58a0cdf7c",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -28,16 +32,16 @@
                   "viewState": 0,
                   "displaying": {
                     "day": 25,
-                    "month": 9,
-                    "year": 3000
+                    "month": 0,
+                    "year": 2999
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
-                  "interpolateColors": false,
+                  "interpolateColors": true,
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_bb6a19d8ca1a"
+                "id": "ID_b86a3bf9eb28"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -124,6 +128,39 @@
     "type": "split",
     "children": [
       {
+        "id": "00aded6d3c43d643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b60f63703407af3",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_c88a9bca1b18",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 22,
+                    "month": 9,
+                    "year": 3000
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeeks": false,
+                  "displayWeather": true
+                },
+                "id": "ID_e96bf8eb28fa"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ]
+      },
+      {
         "id": "1b182adc223c11f5",
         "type": "tabs",
         "children": [
@@ -133,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Intro"
             }
           },
           {
@@ -151,11 +189,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Intro"
             }
           },
           {
@@ -179,12 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Intro"
             }
           }
         ],
@@ -208,11 +248,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b979803eaee7fe58",
+  "active": "c2fc17b58a0cdf7c",
   "lastOpenFiles": [
+    "Untitled.base",
     "2025-09-14.md",
     "Intro.md",
-    "Untitled.base",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
