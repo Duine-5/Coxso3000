@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d9b99ce21754f672",
+        "id": "b8475bb109e3f90f",
         "type": "tabs",
         "children": [
           {
-            "id": "996c78e4834e66de",
+            "id": "e05d149c7c8d826e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Characters"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "New tab"
             }
           }
         ]
@@ -29,22 +27,34 @@
     "type": "split",
     "children": [
       {
-        "id": "67aa9abe98eee488",
+        "id": "b5e0c115e4934110",
         "type": "tabs",
-        "dimension": 63.729508196721305,
         "children": [
           {
-            "id": "f20cfc38d31286ac",
+            "id": "babb84410ecf07f9",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "bcaa994d5ee31d7b",
+            "id": "21a06dc1c6ee33b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "67b22cf5471b122c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,46 +71,17 @@
             }
           },
           {
-            "id": "0b8b653e9086479b",
+            "id": "bdc45e092e9a8107",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "mk-path-view",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "90c9cab6a4eb3a84",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
-        ]
-      },
-      {
-        "id": "f5e1b78025e7a7f1",
-        "type": "tabs",
-        "dimension": 36.27049180327869,
-        "children": [
-          {
-            "id": "3e0c3ca818cda012",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,8 +146,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1b182adc223c11f5",
@@ -238,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 670.5
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,16 +233,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "996c78e4834e66de",
+  "active": "e05d149c7c8d826e",
   "lastOpenFiles": [
-    "Characters/Tabris.md",
-    "Characters/Jazmine.md",
-    "Characters/Glacia.md",
-    "Characters/J.md",
     "Characters/Jamril Valmont.md",
-    "Characters/Characters.md",
+    "Characters/Glacia.md",
+    "Characters/Jazmine.md",
     "Attachments/Textures/Cha-Bg.jpg",
+    "Characters/Tabris.md",
+    "Characters/J.md",
     "Welcome to.md",
+    "Characters/Characters.md",
     "Bookmarks/Untitled.md",
     "Bookmarks/Bookmarks.md",
     "Bookmarks",
