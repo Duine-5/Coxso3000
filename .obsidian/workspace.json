@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Characters/Jamril.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Landing Page"
+              "title": "Jamril"
             }
           }
         ],
@@ -249,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Landing Page.md",
+                "file": "Characters/Jamril.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Landing Page"
+              "title": "Outline of Jamril"
             }
           }
         ],
@@ -278,16 +278,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e04277a1b50c3df7",
+  "active": "95a1f7e3656101ad",
   "lastOpenFiles": [
+    "Templates/Templates.md",
     "Characters/Characters.base",
-    "Landing Page.md",
     "Characters/Characters.md",
+    "Landing Page.md",
     "Attachments/Jamril.jpg",
     "Intro.md",
     "Vault.md",
     "Tags",
-    "Templates/Jamr.md",
+    "Characters/Jamril.md",
     "Attachments",
     "Characters/Jamril.md",
     "Templates",

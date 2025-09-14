@@ -22,7 +22,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 1,
+  "currentWaypoint": 0,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -37,12 +37,17 @@
   "showRibbon": true,
   "vaultSelector": true,
   "deleteFileOption": "trash",
-  "expandedSpaces": [],
+  "expandedSpaces": [
+    "Characters",
+    "Templates"
+  ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "Tags"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
