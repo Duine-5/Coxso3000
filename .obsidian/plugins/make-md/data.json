@@ -40,7 +40,8 @@
   "expandedSpaces": [
     "Characters/Characters.base",
     "Creatures",
-    "Stats"
+    "Stats",
+    "Entries"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
@@ -59,7 +60,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": false,

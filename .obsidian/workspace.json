@@ -25,12 +25,12 @@
             "id": "4a33c89fe71f8aeb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "mk-space-fragment",
               "state": {
-                "path": "Stats"
+                "path": "Entries/#^Natones"
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Entries/#^Natones"
             }
           }
         ],
@@ -231,13 +231,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Stats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stats"
+              "title": "Outline"
             }
           }
         ],
@@ -281,16 +280,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9fae30a8456fe1bb",
+  "active": "4a33c89fe71f8aeb",
   "lastOpenFiles": [
-    "Attachments/IMG-Stats.jpg",
-    "Stats/stats 1.md",
-    "Stats/Stats.md",
-    "Stats",
     "Entries/Entries.md",
-    "Welcome to.md",
-    "Entries/Test.md",
+    "Stats/Stats.md",
+    "Attachments/IMG-Stats.jpg",
     "Entries/First session.md",
+    "Entries/Test.md",
+    "Stats/stats 1.md",
+    "Stats",
+    "Welcome to.md",
     "Entries/Untitled 1.md",
     "Attachments/IMG-Welcome to.jpg",
     "Bookmarks/Bookmarks.md",
