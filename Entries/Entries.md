@@ -1,5 +1,5 @@
 ---
-Modified: Sep 15, 2025 2:45 PM
+Modified: Sep 15, 2025 3:22 PM
 sticker: lucide//edit
 ---
 # Remember//Leben
@@ -13,6 +13,7 @@ sticker: lucide//edit
 > [!cards|dvl no-strong]
 > ```dataview
 > LIST WITHOUT ID file.link + "<br>" + fc-date
-> FROM "Entries"
+> FROM "Entries" 
+> WHERE file.name != "Entries"
 > SORT file.ctime asc
 

@@ -39,8 +39,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "Characters/Characters.base",
-    "Creatures",
-    "Entries"
+    "Creatures"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
@@ -59,7 +58,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": false,
