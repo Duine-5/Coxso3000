@@ -8,7 +8,7 @@ aliases:
 Allegiance:
 Spellcaster level:
 Appearance: Attachments/Characters/Jazmine/IMG-Jazmine.png
-Modified: Sep 15, 2025 11:30 AM
+Modified: Sep 15, 2025 12:15 PM
 ---
 > [!Infobox|right]+
 > # `= this.file.name`

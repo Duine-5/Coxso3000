@@ -11,17 +11,57 @@
             "id": "12516bd676b422c4",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Entries"
+              },
+              "icon": "lucide-file",
+              "title": "Entries"
+            }
+          },
+          {
+            "id": "4325360d32cafc16",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Jazmine.md",
-                "mode": "preview",
+                "file": "Entries/Untitled 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jazmine"
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "0fdf784d4452e151",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_c88a9bca1b18",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 3000
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_daf898582acb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +139,6 @@
       {
         "id": "7b4cb51df0012987",
         "type": "tabs",
-        "dimension": 44.31372549019608,
         "children": [
           {
             "id": "2166b3787e9fe4c8",
@@ -109,13 +148,14 @@
               "state": {
                 "calendar": "ID_c88a9bca1b18",
                 "ephemeral": {
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 25,
                     "month": 9,
                     "year": 3000
                   },
-                  "displayDayNumber": false,
+                  "displayDayNumber": true,
                   "displaySeasonColors": true,
                   "interpolateColors": true,
                   "displayMoons": true,
@@ -156,7 +196,6 @@
       {
         "id": "1b182adc223c11f5",
         "type": "tabs",
-        "dimension": 55.68627450980392,
         "children": [
           {
             "id": "fb78ec25aea9c9b8",
@@ -210,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Jazmine.md",
+                "file": "Entries/Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jazmine"
+              "title": "Outline of Untitled 1"
             }
           }
         ],
@@ -239,8 +278,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "12516bd676b422c4",
+  "active": "0fdf784d4452e151",
   "lastOpenFiles": [
+    "Entries/Untitled.md",
+    "Entries/Untitled 1.md",
+    "Bookmarks/Untitled.md",
+    "Entries/Entries.md",
+    "Bookmarks/Bookmarks.md",
+    "Welcome to.md",
+    "Characters/Jazmine.md",
     "Templates/Character.md",
     "Templates/Templates.md",
     "Characters/Dario.md",
@@ -248,15 +294,12 @@
     "Characters/Jamril Valmont.md",
     "Characters/Glacia.md",
     "Characters/J.md",
-    "Characters/Jazmine.md",
-    "Entries/Entries.md",
     "Entries",
     "Characters/Select Note.md",
     "Lore/Lore.md",
     "Characters/Untitled.md",
     "Attachments/IMG.GrilloA.jpg",
     "Attachments/IMG-Grillo.jpg",
-    "Welcome to.md",
     "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
     "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png",
     "World/Night City.md",
@@ -265,9 +308,7 @@
     "World/World.md",
     "Creatures/Creatures.md",
     "Characters/Characters.md",
-    "Bookmarks/Bookmarks.md",
     "Attachments/Textures/Cha-Bg.jpg",
-    "Bookmarks/Untitled.md",
     "Bookmarks",
     "Lore",
     "Attachments/Textures",
@@ -284,8 +325,6 @@
     "Vault.md",
     "Untitled 1.md",
     "Untitled 3.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Characters/Untitled 1.md"
+    "Untitled 2.md"
   ]
 }

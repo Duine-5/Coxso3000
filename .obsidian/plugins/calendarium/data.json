@@ -1,5 +1,5 @@
 {
-  "autoParse": false,
+  "autoParse": true,
   "calendars": [
     {
       "name": "Coxso",
@@ -258,7 +258,7 @@
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
   "defaultCalendar": "ID_c88a9bca1b18",
-  "eventPreview": false,
+  "eventPreview": true,
   "exit": {
     "saving": false,
     "event": false,
@@ -277,7 +277,7 @@
   "askedToMoveFC": false,
   "askedAboutSync": true,
   "syncBehavior": "Ask",
-  "inlineEventsTag": null,
+  "inlineEventsTag": "Historical",
   "paths": [
     [
       "/",
