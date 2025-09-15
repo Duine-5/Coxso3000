@@ -9,7 +9,7 @@ aliases:
 Allegiance:
 Spellcaster level:
 Modified: Sep 15, 2025 1:41 AM
-Appearance: ""
+Appearance: Attachments/Characters/IMG-Tabris.jpg
 ---
 # Description
 > [!Infobox|right]+
