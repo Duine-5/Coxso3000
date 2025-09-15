@@ -1,5 +1,5 @@
 ---
-Modified: Sep 15, 2025 6:05 PM
+Modified: Sep 15, 2025 11:31 PM
 ---
 ```dataviewjs
 const script = document.createElement("script");
@@ -27,11 +27,29 @@ script.onload = () => {
     const trace = {
       x: ["Sylphir", "Spooky", "Jaeger", "Dario","Fanto", "Albertini"],
       y: [tot_Sy1, tot_Sp1, tot_Ja1, tot_Fa1, tot_Da1, tot_Al1],
-      type: "bar"
+      type: "bar",
+      marker: {
+	  color: "rgba(0, 200, 255, 0.7)", // cyan with transparency
+      line: { color: "rgba(0, 200, 255, 1)", width: 1 }
+	  }
     };
+    
+    const layout = {
+	  title: {
+      text: "Total Nat1s",
+	  font: { color: "white" }
+	  },
+	  paper_bgcolor: "black",   // background outside chart
+	  plot_bgcolor: "black",    // background behind bars
+	  font: { color: "white" }, // axis + labels
+	  width: 500,
+	  height: 300
+	};
 
-    Plotly.newPlot(this.container, [trace], { title: "Total Nat1s" });
+    Plotly.newPlot(this.container, [trace], layout);
+    
 };
+
 
 document.head.appendChild(script);
 ```
