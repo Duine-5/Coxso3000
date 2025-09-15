@@ -312,7 +312,7 @@
       "path": [],
       "supportInlineEvents": false,
       "inlineEventTag": "#inline-events",
-      "dateFormat": "YYYY-MM-DD"
+      "dateFormat": "YYYY-MMM-DD"
     }
   ],
   "configDirectory": null,
