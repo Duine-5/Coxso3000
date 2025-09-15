@@ -1,13 +1,6 @@
 ---
-Modified: Sep 15, 2025 6:14 PM
-sticker: lucide//dices
+Modified: Sep 15, 2025 6:05 PM
 ---
---- start-multi-column: ExampleRegion1  
-```column-settings  
-number of columns: 2  
-largest column: left  
-```
-
 ```dataviewjs
 const script = document.createElement("script");
 script.src = "https://cdn.plot.ly/plotly-latest.min.js";
@@ -42,9 +35,3 @@ script.onload = () => {
 
 document.head.appendChild(script);
 ```
-
---- end-column ---
-
-Text displayed in column 2.
-
---- end-multi-column

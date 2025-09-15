@@ -13,13 +13,40 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Entries"
+                "path": "Stats"
               },
               "icon": "lucide-file",
-              "title": "Entries"
+              "title": "Stats"
+            }
+          },
+          {
+            "id": "0878598f83f34c99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stats/test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
+            "id": "35f5fda1238ca48b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Stats"
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,12 +292,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8a9030c3b3a89c3e",
+  "active": "35f5fda1238ca48b",
   "lastOpenFiles": [
-    "Entries/Entries.md",
+    "Stats/Stats.md",
+    "Stats/Nat1s.md",
+    "Stats/Nat20s.md",
+    "test/test.md",
+    "test/Untitled 1.md",
+    "test/Untitled 3.md",
+    "test/Untitled 2.md",
+    "test/Untitled.md",
+    "test",
+    "Stats/test.md",
+    "Welcome to.md",
+    "Characters/Jamril Valmont.md",
     "Entries/First session.md",
     "Entries/Test.md",
-    "Stats/Stats.md",
+    "Entries/Entries.md",
     "Templates/D.Entry.md",
     "Stats/Duiine.md",
     "Attachments/IMG-Stats.jpg",
@@ -283,19 +321,10 @@
     "Stats/Jaeger.md",
     "Stats/stats 1.md",
     "Stats",
-    "Welcome to.md",
     "Entries/Untitled 1.md",
     "Attachments/IMG-Welcome to.jpg",
     "Bookmarks/Bookmarks.md",
     "Attachments/IMG-Entries.jpg",
-    "Entries/Untitled 2.md",
-    "Characters/Grillo.md",
-    "Characters/J.md",
-    "Bookmarks/Untitled.md",
-    "Characters/Jazmine.md",
-    "Templates/Character.md",
-    "Characters/Dario.md",
-    "Characters/Jamril Valmont.md",
     "Entries",
     "Attachments/IMG.GrilloA.jpg",
     "Attachments/IMG-Grillo.jpg",
@@ -310,7 +339,6 @@
     "Attachments/Characters/J/IMG-J.png",
     "Attachments/Characters/Jazmine",
     "World",
-    "Creatures",
-    "Attachments/Characters/Jamril Valmont"
+    "Creatures"
   ]
 }

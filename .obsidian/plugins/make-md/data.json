@@ -41,7 +41,8 @@
     "Characters/Characters.base",
     "Creatures",
     "Entries",
-    "Stats"
+    "Stats",
+    "test"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
