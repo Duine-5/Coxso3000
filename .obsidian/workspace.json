@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12516bd676b422c4",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Entries"
-              },
-              "icon": "lucide-file",
-              "title": "Entries"
-            }
-          },
-          {
             "id": "4325360d32cafc16",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
               "icon": "lucide-file",
               "title": "Entries"
             }
-          },
-          {
-            "id": "89e18c99c1f2cd52",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Entries"
-              },
-              "icon": "lucide-file",
-              "title": "Entries"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -294,14 +269,15 @@
   "lastOpenFiles": [
     "Entries/Entries.md",
     "Entries/Untitled.md",
+    "Welcome to.md",
+    "Attachments/IMG-Welcome to.jpg",
+    "Bookmarks/Bookmarks.md",
     "Entries/Untitled 1.md",
     "Attachments/IMG-Entries.jpg",
     "Entries/Untitled 2.md",
     "Characters/Grillo.md",
     "Characters/J.md",
     "Bookmarks/Untitled.md",
-    "Bookmarks/Bookmarks.md",
-    "Welcome to.md",
     "Characters/Jazmine.md",
     "Templates/Character.md",
     "Templates/Templates.md",
@@ -334,7 +310,6 @@
     "Creatures",
     "Attachments/Characters/Jamril Valmont",
     "Attachments/Characters/J",
-    "Attachments/Characters/Untitled/IMG-Untitled.png",
     "Vault.md",
     "Untitled 1.md"
   ]
