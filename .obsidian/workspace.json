@@ -11,30 +11,15 @@
             "id": "4325360d32cafc16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Entries/Test.md",
-                "mode": "source",
-                "source": false
+                "path": "Entries"
               },
               "icon": "lucide-file",
-              "title": "Test"
-            }
-          },
-          {
-            "id": "4a33c89fe71f8aeb",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space-fragment",
-              "state": {
-                "path": "Entries/#^Natones"
-              },
-              "icon": "lucide-file",
-              "title": "Entries/#^Natones"
+              "title": "Entries"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,13 +265,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4a33c89fe71f8aeb",
+  "active": "172106553bfeeb78",
   "lastOpenFiles": [
     "Entries/Entries.md",
-    "Stats/Stats.md",
-    "Attachments/IMG-Stats.jpg",
-    "Entries/First session.md",
     "Entries/Test.md",
+    "Entries/First session.md",
+    "Attachments/IMG-Stats.jpg",
+    "Stats/Stats.md",
     "Stats/stats 1.md",
     "Stats",
     "Welcome to.md",
