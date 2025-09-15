@@ -41,27 +41,46 @@
               "state": {
                 "calendar": "ID_c88a9bca1b18",
                 "ephemeral": {
-                  "viewing": null,
+                  "viewing": {
+                    "day": 29,
+                    "month": 5,
+                    "year": 3000
+                  },
                   "viewState": 0,
                   "displaying": {
                     "day": 25,
                     "month": 9,
                     "year": 3000
                   },
-                  "displayDayNumber": false,
+                  "displayDayNumber": true,
                   "displaySeasonColors": true,
                   "interpolateColors": true,
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_daf898582acb"
+                "id": "ID_daf898582acb",
+                "child": "ID_48b8fa1a1859"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "89e18c99c1f2cd52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Grillo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grillo"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,6 +279,26 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "92730a31038272b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16625103d68e3fdb",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_c88a9bca1b18",
+                "id": "ID_48b8fa1a1859",
+                "parent": "ID_daf898582acb"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -278,10 +317,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0fdf784d4452e151",
+  "active": "4325360d32cafc16",
   "lastOpenFiles": [
-    "Entries/Untitled.md",
+    "Characters/Grillo.md",
     "Entries/Untitled 1.md",
+    "Characters/J.md",
+    "Entries/Untitled.md",
     "Bookmarks/Untitled.md",
     "Entries/Entries.md",
     "Bookmarks/Bookmarks.md",
@@ -290,10 +331,8 @@
     "Templates/Character.md",
     "Templates/Templates.md",
     "Characters/Dario.md",
-    "Characters/Grillo.md",
     "Characters/Jamril Valmont.md",
     "Characters/Glacia.md",
-    "Characters/J.md",
     "Entries",
     "Characters/Select Note.md",
     "Lore/Lore.md",

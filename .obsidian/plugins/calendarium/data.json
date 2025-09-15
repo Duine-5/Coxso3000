@@ -246,7 +246,68 @@
         "month": 9,
         "year": 3000
       },
-      "events": [],
+      "events": [
+        {
+          "name": "J's Birthday",
+          "description": null,
+          "date": {
+            "day": 10,
+            "month": 7,
+            "year": [
+              3000,
+              1
+            ]
+          },
+          "id": "ID_9a790b3b294b",
+          "note": "Characters/J.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "J's Birthday",
+          "description": null,
+          "date": {
+            "day": 10,
+            "month": 7,
+            "year": [
+              3000,
+              3050
+            ]
+          },
+          "id": "ID_88c938f8e8b8",
+          "note": "Characters/J.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Baranov's Birthday",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 5,
+            "year": [
+              3000,
+              3100
+            ]
+          },
+          "id": "ID_59590b5be969",
+          "note": "Characters/Grillo.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
       "categories": [],
       "path": [],
       "supportInlineEvents": false,
@@ -277,7 +338,7 @@
   "askedToMoveFC": false,
   "askedAboutSync": true,
   "syncBehavior": "Ask",
-  "inlineEventsTag": "Historical",
+  "inlineEventsTag": null,
   "paths": [
     [
       "/",
