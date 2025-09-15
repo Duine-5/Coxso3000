@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Characters"
+                "path": "mk-core://settings"
               },
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "Settings"
             }
           }
         ]
@@ -33,16 +33,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2ca25a355612bd62",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
             "id": "78743bdcaddf3f6b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false
               },
-              "pinned": true,
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
@@ -73,19 +81,8 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "2ca25a355612bd62",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,12 +236,14 @@
   },
   "active": "e4aa493ce70dfc45",
   "lastOpenFiles": [
-    "Characters/Jazmine.md",
-    "Characters/J.md",
-    "Characters/Glacia.md",
     "Characters/Jamril Valmont.md",
     "Characters/Tabris.md",
     "Attachments/Characters/IMG-Tabris.jpg",
+    "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png",
+    "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
+    "Characters/Jazmine.md",
+    "Characters/J.md",
+    "Characters/Glacia.md",
     "World/World.md",
     "Creatures/Creatures.md",
     "Characters/Untitled.md",
@@ -279,7 +278,6 @@
     "Characters/Untitled 1.md",
     "Characters/Untitled 2.md",
     "Templates/Templates.md",
-    "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.jpg",
     "Intro.md",
     "2025-09-14.md"
   ]

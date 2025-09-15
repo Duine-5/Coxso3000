@@ -8,7 +8,7 @@ Race:
 aliases:
 Allegiance:
 Spellcaster level:
-Modified: Sep 15, 2025 1:41 AM
+Modified: Sep 15, 2025 10:29 AM
 Appearance: Attachments/Characters/IMG-Tabris.jpg
 ---
 # Description

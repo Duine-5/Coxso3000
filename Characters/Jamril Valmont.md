@@ -13,15 +13,15 @@ aliases:
 Allegiance:
   - Hell
 Spellcaster level: "5"
-Appearance: Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.jpg
-Modified: Sep 15, 2025 1:34 AM
+Appearance:
+Modified: Sep 15, 2025 10:30 AM
 ---
 # Welcome to hell
 
 
 > [!Infobox|right]+
 > # `= this.file.name`
-> ![[IMG-Jamril Valmont.jpg|226]]
+> ![[IMG-Jomril Valmont.jpg|226]]
 > ## Archdevil of Hell
 > | Race: |  `= this.Race` |
 > | ---- | ---- |
