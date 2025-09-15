@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Stats"
+                "path": "Entries"
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Entries"
             }
           }
         ]
@@ -78,10 +78,13 @@
             "id": "4a515702476b882f",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -125,8 +128,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_cb29cbbaa9e9",
-                "child": "ID_69f8bb3a195a"
+                "id": "ID_cb29cbbaa9e9"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -216,12 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Entries/Entries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Entries"
             }
           }
         ],
@@ -238,7 +241,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_c88a9bca1b18",
                 "id": "ID_69f8bb3a195a",
                 "parent": "ID_cb29cbbaa9e9"
               },
@@ -261,17 +263,20 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "cff7906fae5c9c63",
   "lastOpenFiles": [
-    "Stats/Stats.md",
     "Entries/Entries.md",
     "Attachments/IMG-Stats.jpg",
     "Entries/Test.md",
+    "Templates/D.Entry.md",
+    "Templates/Templates.md",
+    "World/World.md",
+    "Lore/Lore.md",
     "Entries/First session.md",
+    "Stats/Stats.md",
     "Stats/Duiine.md",
     "Stats/Dario.md",
     "Stats/Fanto.md",
@@ -290,13 +295,9 @@
     "Bookmarks/Untitled.md",
     "Characters/Jazmine.md",
     "Templates/Character.md",
-    "Templates/Templates.md",
     "Characters/Dario.md",
     "Characters/Jamril Valmont.md",
-    "Characters/Glacia.md",
     "Entries",
-    "Characters/Select Note.md",
-    "Lore/Lore.md",
     "Attachments/IMG.GrilloA.jpg",
     "Attachments/IMG-Grillo.jpg",
     "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",

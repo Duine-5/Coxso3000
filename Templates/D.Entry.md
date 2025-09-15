@@ -1,7 +1,7 @@
 ---
-Modified: Sep 15, 2025 5:33 PM
-fc-date: 3000-Mar-25
-Session-Date: 2025-09-07T06:43:45.000Z
+Modified: "\n"
+fc-date: "\n"
+Session-Date: "\n"
 Duine:
   Nat20: 0
   Nat1: 0
@@ -18,4 +18,3 @@ Dario:
   Nat20: 0
   Nat1: 0
 ---
-hoy me comi un sapito
