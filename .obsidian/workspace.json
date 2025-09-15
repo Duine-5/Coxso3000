@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "89254cae513ce9ec",
+        "id": "d34a72237f7ee177",
         "type": "tabs",
         "children": [
           {
-            "id": "4325360d32cafc16",
+            "id": "cff7906fae5c9c63",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Entries"
+                "path": "Stats"
               },
               "icon": "lucide-file",
-              "title": "Entries"
+              "title": "Stats"
             }
           }
         ]
@@ -265,13 +265,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "172106553bfeeb78",
+  "active": "cff7906fae5c9c63",
   "lastOpenFiles": [
+    "Stats/Stats.md",
     "Entries/Entries.md",
+    "Attachments/IMG-Stats.jpg",
     "Entries/Test.md",
     "Entries/First session.md",
-    "Attachments/IMG-Stats.jpg",
-    "Stats/Stats.md",
+    "Stats/Duiine.md",
+    "Stats/Dario.md",
+    "Stats/Fanto.md",
+    "Stats/Spooky.md",
+    "Stats/Jaeger.md",
     "Stats/stats 1.md",
     "Stats",
     "Welcome to.md",
@@ -292,16 +297,11 @@
     "Entries",
     "Characters/Select Note.md",
     "Lore/Lore.md",
-    "Characters/Untitled.md",
     "Attachments/IMG.GrilloA.jpg",
     "Attachments/IMG-Grillo.jpg",
     "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
     "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png",
-    "World/Night City.md",
-    "Lore/Tabris.md",
     "Attachments/IMG-Tabris.jpg",
-    "World/World.md",
-    "Creatures/Creatures.md",
     "Attachments/Textures/Cha-Bg.jpg",
     "Bookmarks",
     "Lore",
