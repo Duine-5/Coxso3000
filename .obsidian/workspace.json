@@ -27,10 +27,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "mk-core://settings"
+                "path": "Stats"
               },
               "icon": "lucide-file",
-              "title": "Settings"
+              "title": "Stats"
             }
           }
         ],
@@ -231,12 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Stats/Stats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Stats"
             }
           }
         ],
@@ -280,8 +281,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4a33c89fe71f8aeb",
+  "active": "9fae30a8456fe1bb",
   "lastOpenFiles": [
+    "Attachments/IMG-Stats.jpg",
+    "Stats/stats 1.md",
+    "Stats/Stats.md",
+    "Stats",
     "Entries/Entries.md",
     "Welcome to.md",
     "Entries/Test.md",
@@ -313,7 +318,6 @@
     "Attachments/IMG-Tabris.jpg",
     "World/World.md",
     "Creatures/Creatures.md",
-    "Characters/Characters.md",
     "Attachments/Textures/Cha-Bg.jpg",
     "Bookmarks",
     "Lore",
@@ -321,12 +325,8 @@
     "Tags",
     "Attachments/Characters/J/IMG-J.png",
     "Attachments/Characters/Jazmine",
-    "Attachments/Characters/Jazmine/IMG-Jazmine.png",
     "World",
     "Creatures",
-    "Attachments/Characters/Jamril Valmont",
-    "Attachments/Characters/J",
-    "Vault.md",
-    "Untitled 1.md"
+    "Attachments/Characters/Jamril Valmont"
   ]
 }
