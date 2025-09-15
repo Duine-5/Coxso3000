@@ -11,12 +11,12 @@
             "id": "e4aa493ce70dfc45",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "image",
               "state": {
-                "path": "mk-core://settings"
+                "file": "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Settings"
+              "icon": "lucide-image",
+              "title": "IMG-Jomril Valmont"
             }
           }
         ]
@@ -178,11 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from IMG-Jomril Valmont"
             }
           },
           {
@@ -236,18 +237,19 @@
   },
   "active": "e4aa493ce70dfc45",
   "lastOpenFiles": [
-    "Characters/Jamril Valmont.md",
-    "Characters/Tabris.md",
-    "Attachments/Characters/IMG-Tabris.jpg",
     "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png",
     "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
+    "Characters/Jamril Valmont.md",
+    "Welcome to.md",
+    "World/Night City.md",
+    "Characters/Tabris.md",
+    "Attachments/Characters/IMG-Tabris.jpg",
     "Characters/Jazmine.md",
     "Characters/J.md",
     "Characters/Glacia.md",
     "World/World.md",
     "Creatures/Creatures.md",
     "Characters/Untitled.md",
-    "Welcome to.md",
     "Characters/Characters.md",
     "Lore/Lore.md",
     "Bookmarks/Bookmarks.md",
@@ -255,7 +257,6 @@
     "Bookmarks/Untitled.md",
     "Bookmarks",
     "Lore",
-    "World/Night City.md",
     "Attachments/Textures",
     "Tags",
     "Attachments/Characters/J/IMG-J.png",

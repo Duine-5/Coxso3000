@@ -1,4 +1,4 @@
 ---
 sticker: lucide//cat
-color: var(--mk-color-red)
+color: "#0b001b"
 ---

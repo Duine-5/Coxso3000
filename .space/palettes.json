@@ -1,1 +1,75 @@
-{}
+{
+  "palette-1757896577575": {
+    "id": "palette-1757896577575",
+    "name": "3000",
+    "path": "assets/color-palettes/3000",
+    "type": "colorpalette",
+    "colors": [
+      {
+        "name": "Color 6",
+        "value": "#53ebe4",
+        "category": "custom"
+      },
+      {
+        "name": "Color 3",
+        "value": "#0f9595",
+        "category": "custom"
+      },
+      {
+        "name": "Color 3",
+        "value": "#084f64",
+        "category": "custom"
+      },
+      {
+        "name": "Color 4",
+        "value": "#03274c",
+        "category": "custom"
+      },
+      {
+        "name": "Color 5",
+        "value": "#08173d",
+        "category": "custom"
+      },
+      {
+        "name": "Color 6",
+        "value": "#0b001b",
+        "category": "custom"
+      },
+      {
+        "name": "Color 7",
+        "value": "#4d004f",
+        "category": "custom"
+      },
+      {
+        "name": "Color 8",
+        "value": "#c1115a",
+        "category": "custom"
+      },
+      {
+        "name": "Color 9",
+        "value": "#e13a6a",
+        "category": "custom"
+      },
+      {
+        "name": "Color 10",
+        "value": "#e46a87",
+        "category": "custom"
+      },
+      {
+        "name": "Color 11",
+        "value": "#eca6c0",
+        "category": "custom"
+      }
+    ],
+    "gradients": [],
+    "designSystemMapping": {
+      "baseTokens": {},
+      "semanticTokens": {}
+    },
+    "tags": [],
+    "category": "custom",
+    "description": "",
+    "created": 1757896577575,
+    "modified": 1757897153757
+  }
+}

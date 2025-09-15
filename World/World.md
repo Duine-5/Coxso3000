@@ -1,4 +1,4 @@
 ---
 sticker: lucide//globe-2
-color: var(--mk-color-green)
+color: "#03274c"
 ---

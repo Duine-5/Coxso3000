@@ -1,6 +1,7 @@
 ---
 sticker: lucide//box
-color: var(--mk-color-blue)
+color: "#c1115a"
+Modified: Sep 15, 2025 10:47 AM
 ---
 # [[Night City]]
 
