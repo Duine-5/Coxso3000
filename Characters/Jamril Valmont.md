@@ -13,8 +13,8 @@ aliases:
 Allegiance:
   - Hell
 Spellcaster level: "5"
-Appearance:
-Modified: Sep 15, 2025 10:30 AM
+Appearance: Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png
+Modified: Sep 15, 2025 10:56 AM
 ---
 # Welcome to hell
 

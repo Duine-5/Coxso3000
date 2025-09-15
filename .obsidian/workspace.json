@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e911372952c01108",
+        "id": "89254cae513ce9ec",
         "type": "tabs",
         "children": [
           {
-            "id": "e4aa493ce70dfc45",
+            "id": "12516bd676b422c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "mk-space",
               "state": {
-                "file": "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg"
+                "path": "Characters"
               },
-              "icon": "lucide-image",
-              "title": "IMG-Jomril Valmont"
+              "icon": "lucide-file",
+              "title": "Characters"
             }
           }
         ]
@@ -33,24 +33,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ca25a355612bd62",
+            "id": "0d9a522bc2ff385f",
             "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
-            "id": "78743bdcaddf3f6b",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false
               },
+              "pinned": true,
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
@@ -81,8 +73,19 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "8387071a683871dd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,12 +181,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IMG-Jomril Valmont"
+              "title": "Outgoing links"
             }
           },
           {
@@ -216,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -235,21 +237,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e4aa493ce70dfc45",
+  "active": "12516bd676b422c4",
   "lastOpenFiles": [
-    "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png",
-    "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
+    "Attachments/IMG.GrilloA.jpg",
+    "Attachments/IMG-Grillo.jpg",
+    "Characters/J.md",
+    "Characters/Grillo.md",
+    "Characters/Untitled.md",
     "Characters/Jamril Valmont.md",
     "Welcome to.md",
+    "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
+    "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png",
     "World/Night City.md",
-    "Characters/Tabris.md",
-    "Attachments/Characters/IMG-Tabris.jpg",
+    "Lore/Tabris.md",
+    "Attachments/IMG-Tabris.jpg",
     "Characters/Jazmine.md",
-    "Characters/J.md",
     "Characters/Glacia.md",
     "World/World.md",
     "Creatures/Creatures.md",
-    "Characters/Untitled.md",
     "Characters/Characters.md",
     "Lore/Lore.md",
     "Bookmarks/Bookmarks.md",
@@ -279,7 +284,6 @@
     "Characters/Untitled 1.md",
     "Characters/Untitled 2.md",
     "Templates/Templates.md",
-    "Intro.md",
-    "2025-09-14.md"
+    "Intro.md"
   ]
 }
