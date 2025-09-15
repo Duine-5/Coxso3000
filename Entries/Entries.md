@@ -1,14 +1,14 @@
 ---
-Modified: Sep 15, 2025 2:37 PM
+Modified: Sep 15, 2025 2:45 PM
 sticker: lucide//edit
 ---
 # Remember//Leben
 
 > [!caption|right wsmall c-p-sm] Floats to the left
 > ![[IMG-Entries.jpg]]
-> Caption text here
+> Я проснусь завтра.
 
->> (Welcome:: i dont know hwats happening)
+>> (Welcome:: 夢の中の死//目を覚ましてください//私は今まで気づかなかった…この世界がこんなに美しいなんて//)
 
 > [!cards|dvl no-strong]
 > ```dataview
