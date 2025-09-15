@@ -1,5 +1,5 @@
 ---
-Modified: Sep 15, 2025 5:25 PM
+Modified: Sep 15, 2025 5:45 PM
 sticker: lucide//dices
 ---
 
@@ -17,20 +17,27 @@ script.onload = () => {
         .array()
         .map(p => ({
             date: p["Session-Date"],
-            nat20: p.Duine?.Nat20 || 0,
-            nat1: p.Duine?.Nat1 || 0
+            Sy_nat20: p.Duine?.Nat20 || 0,
+            Da_nat20: p.Dario?.Nat20 || 0,
+            Sp_nat20: p.Spooky?.Nat20 || 0,
+            Ja_nat20: p.Jaeger?.Nat20 || 0,
+            Fa_nat20: p.Fanto?.Nat20 || 0
         }));
 
-    const total20 = data.reduce((a,b) => a + b.nat20, 0);
-    const total1 = data.reduce((a,b) => a + b.nat1, 0);
+    const tot_Sy20 = data.reduce((a,b) => a + b.Sy_nat20, 0);
+    const tot_Sp20 = data.reduce((a,b) => a + b.Sp_nat20, 0);
+    const tot_Ja20 = data.reduce((a,b) => a + b.Ja_nat20, 0);
+    const tot_Fa20 = data.reduce((a,b) => a + b.Fa_nat20, 0);
+    const tot_Da20 = data.reduce((a,b) => a + b.Da_nat20, 0);
+    const tot_Al20 = data.reduce((a,b) => a + b.Al_nat20, 0);
 
     const trace = {
-      x: ["Nat20", "Nat1"],
-      y: [total20, total1],
+      x: ["Sylphir", "Spooky", "Jaeger", "Dario","Fanto", "Albertini"],
+      y: [tot_Sy20, tot_Sp20, tot_Ja20, tot_Fa20, tot_Da20, tot_Al20],
       type: "bar"
     };
 
-    Plotly.newPlot(this.container, [trace], { title: "Total rolls for Duine" });
+    Plotly.newPlot(this.container, [trace], { title: "Total Nat20" });
 };
 
 document.head.appendChild(script);

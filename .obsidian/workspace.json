@@ -75,16 +75,13 @@
             }
           },
           {
-            "id": "4a515702476b882f",
+            "id": "28e55ab7eb4e6cf8",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -128,7 +125,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_cb29cbbaa9e9"
+                "id": "ID_cb29cbbaa9e9",
+                "child": "ID_69f8bb3a195a"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -218,13 +216,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entries/Entries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Entries"
+              "title": "Outline"
             }
           }
         ],
@@ -241,6 +238,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_c88a9bca1b18",
                 "id": "ID_69f8bb3a195a",
                 "parent": "ID_cb29cbbaa9e9"
               },
@@ -263,21 +261,22 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "cff7906fae5c9c63",
+  "active": "8a9030c3b3a89c3e",
   "lastOpenFiles": [
     "Entries/Entries.md",
-    "Attachments/IMG-Stats.jpg",
+    "Entries/First session.md",
     "Entries/Test.md",
+    "Stats/Stats.md",
     "Templates/D.Entry.md",
+    "Stats/Duiine.md",
+    "Attachments/IMG-Stats.jpg",
     "Templates/Templates.md",
     "World/World.md",
     "Lore/Lore.md",
-    "Entries/First session.md",
-    "Stats/Stats.md",
-    "Stats/Duiine.md",
     "Stats/Dario.md",
     "Stats/Fanto.md",
     "Stats/Spooky.md",

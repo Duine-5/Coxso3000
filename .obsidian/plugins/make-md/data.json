@@ -40,7 +40,8 @@
   "expandedSpaces": [
     "Characters/Characters.base",
     "Creatures",
-    "Entries"
+    "Entries",
+    "Stats"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
