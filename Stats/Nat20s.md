@@ -1,6 +1,7 @@
 ---
-Modified: Sep 15, 2025 6:06 PM
+Modified: Sep 15, 2025 11:48 PM
 ---
+# The H4ll of Fame ///
 ```dataviewjs
 const script = document.createElement("script");
 script.src = "https://cdn.plot.ly/plotly-latest.min.js";
@@ -27,11 +28,30 @@ script.onload = () => {
     const trace = {
       x: ["Sylphir", "Spooky", "Jaeger", "Dario","Fanto", "Albertini"],
       y: [tot_Sy20, tot_Sp20, tot_Ja20, tot_Fa20, tot_Da20, tot_Al20],
-      type: "bar"
+      type: "bar",
+	  marker: {
+	  color: "rgba(251, 70, 72, 0.7)", // cyan with transparency
+      line: { color: "rgba(251, 70, 72, 1)", width: 1 }
+	  }
     };
+    
+    const layout = {
+	  title: {
+      text: "Total Nat20s",
+	  font: { color: "#FB4648" }
+	  },
+	  paper_bgcolor: "#171717",   // background outside chart
+	  plot_bgcolor: "#171717",    // background behind bars
+	  font: { color: "#BABABA" }, // axis + labels
+	  width: 800,
+	  height: 300
+	};
 
-    Plotly.newPlot(this.container, [trace], { title: "Total Nat20s" });
+    Plotly.newPlot(this.container, [trace], layout);
+    
 };
+
 
 document.head.appendChild(script);
 ```
+---

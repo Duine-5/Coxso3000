@@ -1,6 +1,7 @@
 ---
-Modified: Sep 15, 2025 11:31 PM
+Modified: Sep 15, 2025 11:47 PM
 ---
+# The C0rn3r Of Shame ///
 ```dataviewjs
 const script = document.createElement("script");
 script.src = "https://cdn.plot.ly/plotly-latest.min.js";
@@ -29,20 +30,20 @@ script.onload = () => {
       y: [tot_Sy1, tot_Sp1, tot_Ja1, tot_Fa1, tot_Da1, tot_Al1],
       type: "bar",
       marker: {
-	  color: "rgba(0, 200, 255, 0.7)", // cyan with transparency
-      line: { color: "rgba(0, 200, 255, 1)", width: 1 }
+	  color: "rgba(251, 70, 72, 0.7)", // cyan with transparency
+      line: { color: "rgba(251, 70, 72, 1)", width: 1 }
 	  }
     };
     
     const layout = {
 	  title: {
       text: "Total Nat1s",
-	  font: { color: "white" }
+	  font: { color: "#FB4648" }
 	  },
-	  paper_bgcolor: "black",   // background outside chart
-	  plot_bgcolor: "black",    // background behind bars
-	  font: { color: "white" }, // axis + labels
-	  width: 500,
+	  paper_bgcolor: "#171717",   // background outside chart
+	  plot_bgcolor: "#171717",    // background behind bars
+	  font: { color: "#BABABA" }, // axis + labels
+	  width: 800,
 	  height: 300
 	};
 
