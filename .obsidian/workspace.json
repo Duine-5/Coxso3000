@@ -26,38 +26,11 @@
               "type": "markdown",
               "state": {
                 "file": "Entries/Untitled 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "0fdf784d4452e151",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_c88a9bca1b18",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 0,
-                  "displaying": {
-                    "day": 25,
-                    "month": 9,
-                    "year": 3000
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_daf898582acb"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
             }
           },
           {
@@ -72,7 +45,8 @@
               "title": "Entries"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,12 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Entries/Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled 1"
             }
           }
         ],
@@ -318,11 +293,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "12516bd676b422c4",
+  "active": "4325360d32cafc16",
   "lastOpenFiles": [
-    "Entries/Untitled 1.md",
-    "Entries/Untitled.md",
     "Entries/Entries.md",
+    "Entries/Untitled.md",
+    "Entries/Untitled 1.md",
     "Attachments/IMG-Entries.jpg",
     "Entries/Untitled 2.md",
     "Characters/Grillo.md",
