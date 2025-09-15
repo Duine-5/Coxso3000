@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "Entries/Untitled 1.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Untitled 1"
@@ -41,11 +41,7 @@
               "state": {
                 "calendar": "ID_c88a9bca1b18",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 29,
-                    "month": 5,
-                    "year": 3000
-                  },
+                  "viewing": null,
                   "viewState": 0,
                   "displaying": {
                     "day": 25,
@@ -58,8 +54,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_daf898582acb",
-                "child": "ID_48b8fa1a1859"
+                "id": "ID_daf898582acb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -71,16 +66,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Grillo.md",
+                "file": "Entries/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grillo"
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,6 +153,7 @@
       {
         "id": "7b4cb51df0012987",
         "type": "tabs",
+        "dimension": 39.6078431372549,
         "children": [
           {
             "id": "2166b3787e9fe4c8",
@@ -167,7 +163,11 @@
               "state": {
                 "calendar": "ID_c88a9bca1b18",
                 "ephemeral": {
-                  "viewing": null,
+                  "viewing": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 3000
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 25,
@@ -180,7 +180,8 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_cb29cbbaa9e9"
+                "id": "ID_cb29cbbaa9e9",
+                "child": "ID_69f8bb3a195a"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -215,6 +216,7 @@
       {
         "id": "1b182adc223c11f5",
         "type": "tabs",
+        "dimension": 27.058823529411764,
         "children": [
           {
             "id": "fb78ec25aea9c9b8",
@@ -222,6 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Entries/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +234,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -281,18 +284,19 @@
         "currentTab": 3
       },
       {
-        "id": "92730a31038272b2",
+        "id": "f772aeed5ae28a24",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
-            "id": "16625103d68e3fdb",
+            "id": "87ce1d87821d69ae",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_c88a9bca1b18",
-                "id": "ID_48b8fa1a1859",
-                "parent": "ID_daf898582acb"
+                "id": "ID_69f8bb3a195a",
+                "parent": "ID_cb29cbbaa9e9"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -317,7 +321,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4325360d32cafc16",
+  "active": "89e18c99c1f2cd52",
   "lastOpenFiles": [
     "Characters/Grillo.md",
     "Entries/Untitled 1.md",
