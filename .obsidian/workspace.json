@@ -64,18 +64,15 @@
             "id": "89e18c99c1f2cd52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Entries/Untitled 1.md",
-                "mode": "source",
-                "source": false
+                "path": "Entries"
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Entries"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,22 +90,12 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "pinned": true,
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
-            "id": "0d9a522bc2ff385f",
-            "type": "leaf",
-            "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false
               },
+              "pinned": true,
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
@@ -139,8 +126,19 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "4a515702476b882f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -224,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entries/Untitled 1.md",
+                "file": "Entries/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +232,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -321,14 +319,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "89e18c99c1f2cd52",
+  "active": "a8cc4d5bbd2b280b",
   "lastOpenFiles": [
-    "Characters/Grillo.md",
-    "Entries/Untitled 1.md",
-    "Characters/J.md",
     "Entries/Untitled.md",
-    "Bookmarks/Untitled.md",
+    "Entries/Untitled 1.md",
+    "Entries/Untitled 2.md",
     "Entries/Entries.md",
+    "Characters/Grillo.md",
+    "Characters/J.md",
+    "Bookmarks/Untitled.md",
     "Bookmarks/Bookmarks.md",
     "Welcome to.md",
     "Characters/Jazmine.md",
@@ -367,7 +366,6 @@
     "Attachments/J.png",
     "Vault.md",
     "Untitled 1.md",
-    "Untitled 3.md",
-    "Untitled 2.md"
+    "Untitled 3.md"
   ]
 }
