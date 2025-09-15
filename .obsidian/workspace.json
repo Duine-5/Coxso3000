@@ -11,12 +11,14 @@
             "id": "12516bd676b422c4",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Characters"
+                "file": "Characters/Jazmine.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "Jazmine"
             }
           }
         ]
@@ -33,16 +35,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d9a522bc2ff385f",
+            "id": "8387071a683871dd",
             "type": "leaf",
             "pinned": true,
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "pinned": true,
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
+            "id": "0d9a522bc2ff385f",
+            "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false
               },
-              "pinned": true,
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
@@ -73,19 +85,8 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "8387071a683871dd",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,12 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Characters/Jazmine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Jazmine"
             }
           }
         ],
@@ -239,24 +241,30 @@
   },
   "active": "12516bd676b422c4",
   "lastOpenFiles": [
+    "Templates/Character.md",
+    "Templates/Templates.md",
+    "Characters/Dario.md",
+    "Characters/Grillo.md",
+    "Characters/Jamril Valmont.md",
+    "Characters/Glacia.md",
+    "Characters/J.md",
+    "Characters/Jazmine.md",
+    "Entries/Entries.md",
+    "Entries",
+    "Characters/Select Note.md",
+    "Lore/Lore.md",
+    "Characters/Untitled.md",
     "Attachments/IMG.GrilloA.jpg",
     "Attachments/IMG-Grillo.jpg",
-    "Characters/J.md",
-    "Characters/Grillo.md",
-    "Characters/Untitled.md",
-    "Characters/Jamril Valmont.md",
     "Welcome to.md",
     "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
     "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png",
     "World/Night City.md",
     "Lore/Tabris.md",
     "Attachments/IMG-Tabris.jpg",
-    "Characters/Jazmine.md",
-    "Characters/Glacia.md",
     "World/World.md",
     "Creatures/Creatures.md",
     "Characters/Characters.md",
-    "Lore/Lore.md",
     "Bookmarks/Bookmarks.md",
     "Attachments/Textures/Cha-Bg.jpg",
     "Bookmarks/Untitled.md",
@@ -270,20 +278,14 @@
     "World",
     "Creatures",
     "Attachments/Characters/Jamril Valmont",
-    "Templates/Character.md",
     "Attachments/Characters/J",
     "Attachments/Characters/Untitled/IMG-Untitled.png",
-    "Attachments/Characters/Untitled",
     "Attachments/J.png",
-    "Pasted image 20250914200013.png",
     "Vault.md",
     "Untitled 1.md",
     "Untitled 3.md",
     "Untitled.md",
     "Untitled 2.md",
-    "Characters/Untitled 1.md",
-    "Characters/Untitled 2.md",
-    "Templates/Templates.md",
-    "Intro.md"
+    "Characters/Untitled 1.md"
   ]
 }

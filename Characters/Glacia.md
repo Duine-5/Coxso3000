@@ -1,13 +1,13 @@
 ---
-Type:
+Type: NPC
 Status:
+  - Alive
 Race: Fiend
 aliases:
 Allegiance:
 Spellcaster level:
-Modified: Sep 15, 2025 1:34 AM
+Modified: Sep 15, 2025 11:30 AM
 ---
-# Description
 > [!Infobox|right]+
 > # `= this.file.name`
 > img
@@ -16,6 +16,7 @@ Modified: Sep 15, 2025 1:34 AM
 > | ---- | ---- |
 > | Template: |  |
 > | Template: |  |
+# Description
 
 ---
 

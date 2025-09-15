@@ -1,18 +1,16 @@
 ---
-Type:
-  - PC
+Type: PC
 Status:
   - Alive
 Race:
   - Unknown
 aliases:
 Allegiance:
-Spellcaster level:
+Spellcaster level: 0
 banner:
 Appearance: Attachments/Characters/J/IMG-J.png
-Modified: Sep 15, 2025 1:36 AM
+Modified: Sep 15, 2025 11:30 AM
 ---
-# Description
 > [!Infobox|right]+
 > # `= this.file.name`
 > ![[IMG-J.png|250]]
@@ -21,6 +19,7 @@ Modified: Sep 15, 2025 1:36 AM
 > | ---- | ---- |
 > | Template: |  |
 > | Template: |  |
+# Description
 
 ---
 

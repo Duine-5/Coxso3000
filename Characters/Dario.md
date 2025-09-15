@@ -1,25 +1,22 @@
 ---
-Type: OS-PC
+Type: PC
 Status:
   - Alive
 Race:
-  - Cambion
 aliases:
 Allegiance:
 Spellcaster level:
-Appearance: Attachments/Characters/Jazmine/IMG-Jazmine.png
-Modified: Sep 15, 2025 11:30 AM
+Modified: Sep 15, 2025 11:31 AM
 ---
 > [!Infobox|right]+
 > # `= this.file.name`
-> ![[IMG-Jazmine.png|275]]
+> img
 > ## 
 > | Race: |  `= this.Race` |
 > | ---- | ---- |
 > | Template: |  |
 > | Template: |  |
 # Description
-
 
 ---
 
@@ -32,5 +29,4 @@ Modified: Sep 15, 2025 11:30 AM
 
 
 # Relationships
-[[Jamril Valmont]] - Father
-fasdfasfd
+

@@ -1,14 +1,15 @@
 ---
-Type:
+Type: PC
 Status:
+  - Alive
 Race:
   - Human
 aliases:
 Allegiance:
 Spellcaster level:
-Modified: Sep 15, 2025 10:59 AM
+Modified: Sep 15, 2025 11:30 AM
+Appearance: Attachments/IMG.GrilloA.jpg
 ---
-# Description
 > [!Infobox|right]+
 > # `= this.file.name`
 > ![[IMG-Grillo.jpg]]
@@ -17,9 +18,10 @@ Modified: Sep 15, 2025 10:59 AM
 > | ---- | ---- |
 > | Template: |  |
 > | Template: |  |
+# Description
 
 ---
-
+Poor fella, fart smella
 ## Ideals
 ---
 
@@ -29,4 +31,5 @@ Modified: Sep 15, 2025 10:59 AM
 
 
 # Relationships
-
+---
+- [[J]] - Friend

@@ -1,12 +1,11 @@
 ---
-Type:
+Type: []
 Status:
 Race:
 aliases:
 Allegiance:
 Spellcaster level:
 ---
-# Description
 > [!Infobox|right]+
 > # `= this.file.name`
 > img
@@ -15,6 +14,7 @@ Spellcaster level:
 > | ---- | ---- |
 > | Template: |  |
 > | Template: |  |
+# Description
 
 ---
 

@@ -1,6 +1,5 @@
 ---
-Type:
-  - PC
+Type: OG-PC
 Status:
   - Alive
 Race:
@@ -10,15 +9,11 @@ Race:
 aliases:
   - Jamril
   - The worst Valmont
-Allegiance:
-  - Hell
+Allegiance: "[[The Nine Hells]]"
 Spellcaster level: "5"
 Appearance: Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png
-Modified: Sep 15, 2025 10:56 AM
+Modified: Sep 15, 2025 11:30 AM
 ---
-# Welcome to hell
-
-
 > [!Infobox|right]+
 > # `= this.file.name`
 > ![[IMG-Jomril Valmont.jpg|226]]
@@ -27,10 +22,21 @@ Modified: Sep 15, 2025 10:56 AM
 > | ---- | ---- |
 > | Sexo: | Regular |
 > | Hambriento: | De aventura |
+# Welcome to hell
+---
+
 
 
 La mano de [[Glacia]]
 
 
 # Relationships
-[[Jazmine]] - Daughter
+---
+> [!kith|family] [[Jazmine]] _Daughter_
+
+> [!kith|friend] [[Sylphir]] _Friend_
+
+> [!kith|antagonist] [[Casius]] _Mortal enemy_
+
+>[!kith|romantic] [[Meave]] _Partner_
+
