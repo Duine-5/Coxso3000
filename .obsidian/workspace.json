@@ -269,13 +269,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entries/Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline"
             }
           }
         ],
@@ -319,12 +318,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a8cc4d5bbd2b280b",
+  "active": "12516bd676b422c4",
   "lastOpenFiles": [
     "Entries/Untitled.md",
+    "Entries/Entries.md",
     "Entries/Untitled 1.md",
     "Entries/Untitled 2.md",
-    "Entries/Entries.md",
     "Characters/Grillo.md",
     "Characters/J.md",
     "Bookmarks/Untitled.md",
