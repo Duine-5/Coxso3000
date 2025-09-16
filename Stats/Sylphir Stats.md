@@ -1,5 +1,5 @@
 ---
-Modified: Sep 16, 2025 5:28 PM
+Modified: Sep 16, 2025 5:54 PM
 ---
 
 ```dataviewjs
@@ -56,4 +56,15 @@ script.onload = () => {
 document.head.appendChild(script);
 ```
 ---
+## Historical Best
+
+```dataview
+TABLE Duine.Nat20 AS "Best Performance"
+FROM "Entries"
+WHERE file.name != "Entries" 
+SORT Duine.Nat20 DESC
+LIMIT 5
+
+```
+
 ![![Stats/#*Table]]

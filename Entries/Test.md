@@ -1,7 +1,19 @@
 ---
-Modified: Sep 16, 2025 1:05 PM
+Modified: Sep 16, 2025 6:05 PM
 fc-date: 3000-Mar-25
 Session-Date: 2025-09-07T06:43:45.000Z
+Duine_Nat20: 1
+Duine_Nat1: 1
+Albertini_Nat20:
+Albertini_Nat1:
+Jaeger_Nat20:
+Jaeger_Nat1:
+Spooky_Nat20:
+Spooky_Nat1:
+Dario_Nat20:
+Dario_Nat1:
+Fanto_Nat20:
+Fanto_Nat1:
 Duine:
   Nat20: "1"
   Nat1: "1"

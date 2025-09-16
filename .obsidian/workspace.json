@@ -11,14 +11,12 @@
             "id": "cff7906fae5c9c63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Entries/Test.md",
-                "mode": "source",
-                "source": false
+                "path": "Entries"
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Entries"
             }
           },
           {
@@ -106,10 +104,13 @@
             "id": "21abf5eaae5ba9c4",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -153,8 +154,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_cb29cbbaa9e9",
-                "child": "ID_69f8bb3a195a"
+                "id": "ID_cb29cbbaa9e9"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -244,13 +244,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entries/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline"
             }
           }
         ],
@@ -267,7 +266,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_c88a9bca1b18",
                 "id": "ID_69f8bb3a195a",
                 "parent": "ID_cb29cbbaa9e9"
               },
@@ -290,21 +288,22 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "cff7906fae5c9c63",
   "lastOpenFiles": [
     "Entries/Entries.md",
-    "Stats/Sylphir Stats.md",
-    "Stats/Nat20s.md",
-    "Stats/Decor.md",
     "Stats/Nat1s.md",
-    "Entries/First session.md",
+    "Stats/Decor.md",
+    "Stats/Nat20s.md",
     "Entries/Test.md",
-    "Stats/Stats.md",
+    "Entries/First session.md",
+    "Stats/Untitled.base",
+    "Entries/Untitled.md",
     "Attachments/IMG-Decor.jpg",
+    "Stats/Sylphir Stats.md",
+    "Stats/Stats.md",
     "test/test.md",
     "test/Untitled 2.md",
     "test/Untitled 1.md",
@@ -323,8 +322,6 @@
     "Stats/Dario.md",
     "Stats/Fanto.md",
     "Stats/Spooky.md",
-    "Stats/Jaeger.md",
-    "Stats/stats 1.md",
     "Stats",
     "Attachments/IMG-Welcome to.jpg",
     "Attachments/IMG-Entries.jpg",
@@ -340,7 +337,6 @@
     "Attachments/Textures",
     "Tags",
     "Attachments/Characters/Jazmine",
-    "World",
-    "Creatures"
+    "World"
   ]
 }

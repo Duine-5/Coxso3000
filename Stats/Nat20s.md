@@ -1,5 +1,5 @@
 ---
-Modified: Sep 16, 2025 12:48 PM
+Modified: Sep 16, 2025 6:06 PM
 ---
 # The H4ll of Fame ///
 ```dataviewjs
@@ -10,12 +10,12 @@ script.onload = () => {
         .array()
         .map(p => ({
             date: p["Session-Date"],
-            Sy_nat20: Number(p.Duine?.Nat20) || 0,
-            Da_nat20: Number(p.Dario?.Nat20) || 0,
-            Sp_nat20: Number(p.Spooky?.Nat20) || 0,
-            Ja_nat20: Number(p.Jaeger?.Nat20) || 0,
-            Al_nat20: Number(p.Albertini?.Nat20) || 0,
-            Fa_nat20: Number(p.Fanto?.Nat20) || 0
+            Sy_nat20: Number(p.Duine_Nat20) || 0,
+            Da_nat20: Number(p.Dario_Nat20) || 0,
+            Sp_nat20: Number(p.Spooky_Nat20) || 0,
+            Ja_nat20: Number(p.Jaeger_Nat20) || 0,
+            Al_nat20: Number(p.Albertini_Nat20) || 0,
+            Fa_nat20: Number(p.Fanto_Nat20) || 0
         }));
 
     const tot_Sy20 = data.reduce((a,b) => a + b.Sy_nat20, 0);
