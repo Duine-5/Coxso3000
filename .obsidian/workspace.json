@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Nat20s.md",
+                "file": "Stats/Nat1s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nat20s"
+              "title": "Outline of Nat1s"
             }
           }
         ],
@@ -291,10 +291,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b3363852bda5e4bc",
+  "active": "1e3e989b4754e7b6",
   "lastOpenFiles": [
-    "Stats/Nat1s.md",
     "Stats/Nat20s.md",
+    "Stats/Nat1s.md",
+    "Entries/First session.md",
+    "Entries/Test.md",
     "test/test.md",
     "test/Untitled 2.md",
     "test/Untitled 1.md",
@@ -305,8 +307,6 @@
     "test",
     "Welcome to.md",
     "Characters/Jamril Valmont.md",
-    "Entries/First session.md",
-    "Entries/Test.md",
     "Entries/Entries.md",
     "Templates/D.Entry.md",
     "Stats/Duiine.md",

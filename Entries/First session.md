@@ -1,7 +1,7 @@
 ---
-Modified: Sep 15, 2025 5:51 PM
-Session-Date: "\n"
-fc-date: 3000-Mar-26
+Modified: Sep 16, 2025 11:47 AM
+fc-date:
+Session-Date:
 Duine:
   Nat20: 0
   Nat1: 0
@@ -17,4 +17,7 @@ Spooky:
 Dario:
   Nat20: 0
   Nat1: 0
+Albertini:
+  Nat20: "1"
+  Nat1: "1"
 ---
