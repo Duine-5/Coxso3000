@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Stats"
+                "path": "Entries"
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Entries"
             }
           },
           {
@@ -291,20 +291,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "cff7906fae5c9c63",
+  "active": "490ace00afe2a5c8",
   "lastOpenFiles": [
+    "Entries/Entries.md",
+    "Entries/Test.md",
     "Stats/Decor.md",
     "Stats/Nat20s.md",
     "Stats/Nat1s.md",
-    "Entries/Entries.md",
+    "Stats/Stats.md",
     "Attachments/IMG-Decor.jpg",
     "Entries/First session.md",
-    "Entries/Test.md",
     "test/test.md",
     "test/Untitled 2.md",
     "test/Untitled 1.md",
     "Stats/test.md",
-    "Stats/Stats.md",
     "test/Untitled 3.md",
     "test/Untitled.md",
     "test",
