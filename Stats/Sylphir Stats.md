@@ -1,5 +1,5 @@
 ---
-Modified: Sep 16, 2025 6:28 PM
+Modified: Sep 16, 2025 9:07 PM
 ---
 
 ```dataviewjs
@@ -8,6 +8,8 @@ script.src = "https://cdn.plot.ly/plotly-latest.min.js";
 script.onload = () => {
     const data = dv.pages('"Entries"')
         .array()
+        .sort((a, b) => new Date(a["Session-Date"]) - new 
+         Date(b["Session-Date"]))
         .map(p => ({
             date: new Date(p["Session-Date"]),
             sy_n20: Number(p.Duine_Nat20) || 0,
