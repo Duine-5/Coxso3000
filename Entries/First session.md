@@ -1,7 +1,7 @@
 ---
-Modified: Sep 16, 2025 12:49 PM
+Modified: Sep 16, 2025 1:06 PM
 fc-date:
-Session-Date:
+Session-Date: 2025-09-16T00:00:00.000Z
 Duine:
   Nat20: "1"
   Nat1: "1"
@@ -20,4 +20,5 @@ Dario:
 Albertini:
   Nat20: "1"
   Nat1: "1"
+Test rolls: 12
 ---

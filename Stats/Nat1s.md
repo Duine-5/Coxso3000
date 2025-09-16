@@ -1,5 +1,5 @@
 ---
-Modified: Sep 16, 2025 12:49 PM
+Modified: Sep 16, 2025 1:11 PM
 ---
 # The C0rn3r Of Shame ///
 ```dataviewjs
@@ -37,10 +37,10 @@ script.onload = () => {
     };
     
     const layout = {
-	  title: {
-      text: "Total Nat1s",
-	  font: { color: "#FB4648" }
-	  },
+	  //title: {
+      //text: "Total Nat1s",
+	  //font: { color: "#FB4648" }
+	  //},
 	  paper_bgcolor: "#171717",   // background outside chart
 	  plot_bgcolor: "#171717",    // background behind bars
 	  font: { color: "#BABABA" }, // axis + labels

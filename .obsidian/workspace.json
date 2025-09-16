@@ -35,16 +35,17 @@
             "id": "35f5fda1238ca48b",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Stats"
+                "file": "Stats/Decor.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Decor"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             }
           },
           {
-            "id": "d1b0c417b31bd662",
+            "id": "6b43e900d87e04a5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -241,12 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Stats/Nat1s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Nat1s"
             }
           }
         ],
@@ -290,13 +292,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "35f5fda1238ca48b",
+  "active": "a6bbb253b8635bf1",
   "lastOpenFiles": [
+    "Stats/Decor.md",
     "Stats/Nat20s.md",
     "Stats/Nat1s.md",
-    "Entries/Entries.md",
     "Entries/First session.md",
     "Entries/Test.md",
+    "Entries/Entries.md",
+    "Attachments/IMG-Decor.jpg",
     "test/test.md",
     "test/Untitled 2.md",
     "test/Untitled 1.md",
@@ -319,9 +323,7 @@
     "Stats/Jaeger.md",
     "Stats/stats 1.md",
     "Stats",
-    "Entries/Untitled 1.md",
     "Attachments/IMG-Welcome to.jpg",
-    "Bookmarks/Bookmarks.md",
     "Attachments/IMG-Entries.jpg",
     "Entries",
     "Attachments/IMG.GrilloA.jpg",
@@ -334,7 +336,6 @@
     "Lore",
     "Attachments/Textures",
     "Tags",
-    "Attachments/Characters/J/IMG-J.png",
     "Attachments/Characters/Jazmine",
     "World",
     "Creatures"

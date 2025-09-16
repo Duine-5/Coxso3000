@@ -1,5 +1,5 @@
 ---
-Modified: Sep 15, 2025 5:45 PM
+Modified: Sep 16, 2025 1:05 PM
 fc-date: 3000-Mar-25
 Session-Date: 2025-09-07T06:43:45.000Z
 Duine:
@@ -20,5 +20,6 @@ Dario:
 Albertini:
   Nat20: "5"
   Nat1: "1"
+Test rolls: 1
 ---
 hoy me comi un sapito
