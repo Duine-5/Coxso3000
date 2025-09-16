@@ -115,7 +115,7 @@
             }
           },
           {
-            "id": "f7d8fcf1366de4e5",
+            "id": "db053f9ccb297b5f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -265,12 +265,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Stats/Nat1s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Nat1s"
             }
           }
         ],
@@ -293,13 +294,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "cff7906fae5c9c63",
+  "active": "e043bab52d8a9f77",
   "lastOpenFiles": [
-    "Attachments/IMG-Decor.jpg",
     "Stats/Nat20s.md",
+    "Stats/Decor.md",
+    "Attachments/IMG-Decor.jpg",
     "Stats/Nat1s.md",
     "Stats/Sylphir Stats.md",
-    "Stats/Decor.md",
     "Entries/Test.md",
     "Entries/First session.md",
     "Entries/Second test.md",
