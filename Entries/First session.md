@@ -1,22 +1,22 @@
 ---
-Modified: Sep 16, 2025 11:47 AM
+Modified: Sep 16, 2025 12:49 PM
 fc-date:
 Session-Date:
 Duine:
-  Nat20: 0
-  Nat1: 0
+  Nat20: "1"
+  Nat1: "1"
 Jaeger:
-  Nat20: 0
-  Nat1: 0
+  Nat20: "1"
+  Nat1: "1"
 Fanto:
-  Nat20: 0
-  Nat1: 0
+  Nat20: "1"
+  Nat1: "1"
 Spooky:
-  Nat20: 0
-  Nat1: 0
+  Nat20: "1"
+  Nat1: "1"
 Dario:
-  Nat20: 0
-  Nat1: 0
+  Nat20: "1"
+  Nat1: "1"
 Albertini:
   Nat20: "1"
   Nat1: "1"
