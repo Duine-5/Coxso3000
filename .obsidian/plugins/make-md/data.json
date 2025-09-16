@@ -13,7 +13,7 @@
   "contextEnabled": true,
   "spaceViewEnabled": true,
   "saveAllContextToFrontmatter": true,
-  "autoOpenFileContext": false,
+  "autoOpenFileContext": true,
   "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
