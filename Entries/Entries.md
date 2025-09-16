@@ -1,5 +1,5 @@
 ---
-Modified: Sep 15, 2025 5:56 PM
+Modified: Sep 16, 2025 1:27 PM
 sticker: lucide//edit
 ---
 # Remember//Leben
@@ -17,10 +17,6 @@ sticker: lucide//edit
 > WHERE file.name != "Entries"
 > SORT file.ctime asc
 > ```
-
-
-
-
 
 
 ![![Entries/#*Table]]
