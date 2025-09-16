@@ -11,12 +11,14 @@
             "id": "cff7906fae5c9c63",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Stats"
+                "file": "Stats/Sylphir Stats.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Sylphir Stats"
             }
           },
           {
@@ -101,7 +103,7 @@
             }
           },
           {
-            "id": "6c1c2cdd22585487",
+            "id": "4ef9266b69f7332e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -124,7 +126,7 @@
       {
         "id": "7b4cb51df0012987",
         "type": "tabs",
-        "dimension": 39.6078431372549,
+        "dimension": 59.41176470588235,
         "children": [
           {
             "id": "2166b3787e9fe4c8",
@@ -135,11 +137,7 @@
               "state": {
                 "calendar": "ID_c88a9bca1b18",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 25,
-                    "month": 9,
-                    "year": 3000
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 25,
@@ -200,7 +198,7 @@
       {
         "id": "1b182adc223c11f5",
         "type": "tabs",
-        "dimension": 27.058823529411764,
+        "dimension": 40.588235294117645,
         "children": [
           {
             "id": "fb78ec25aea9c9b8",
@@ -265,27 +263,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "f772aeed5ae28a24",
-        "type": "tabs",
-        "dimension": 33.33333333333333,
-        "children": [
-          {
-            "id": "87ce1d87821d69ae",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_c88a9bca1b18",
-                "id": "ID_69f8bb3a195a",
-                "parent": "ID_cb29cbbaa9e9"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -304,19 +281,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "cff7906fae5c9c63",
+  "active": "0db0a7f30fac131a",
   "lastOpenFiles": [
+    "Stats/Sylphir Stats.md",
+    "Entries/Test.md",
+    "Entries/First session.md",
     "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
-    "Entries/First session.md",
-    "Entries/Test.md",
     "Entries/Entries.md",
     "Attachments/IMG-Decor.jpg",
     "Stats/Stats.md",
     "Stats/Untitled.base",
     "Entries/Untitled.md",
-    "Stats/Sylphir Stats.md",
     "test/test.md",
     "test/Untitled 2.md",
     "test/Untitled 1.md",

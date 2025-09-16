@@ -1,5 +1,5 @@
 ---
-Modified: Sep 16, 2025 5:54 PM
+Modified: Sep 16, 2025 6:28 PM
 ---
 
 ```dataviewjs
@@ -10,7 +10,7 @@ script.onload = () => {
         .array()
         .map(p => ({
             date: new Date(p["Session-Date"]),
-            sy_n20: Number(p.Duine?.Nat20) || 0,
+            sy_n20: Number(p.Duine_Nat20) || 0,
         }));
         
     const dates = data.map(d => d.date)
