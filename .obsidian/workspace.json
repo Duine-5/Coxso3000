@@ -115,7 +115,7 @@
             }
           },
           {
-            "id": "db053f9ccb297b5f",
+            "id": "d8429b3f21731e6e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -162,8 +162,7 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_cb29cbbaa9e9",
-                "child": "ID_69f8bb3a195a"
+                "id": "ID_cb29cbbaa9e9"
               },
               "pinned": true,
               "icon": "CALENDARIUM",
@@ -204,8 +203,7 @@
               "title": "Explorer"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1b182adc223c11f5",
@@ -265,13 +263,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Nat1s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nat1s"
+              "title": "Outline"
             }
           }
         ],
@@ -294,17 +291,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e043bab52d8a9f77",
+  "active": "cff7906fae5c9c63",
   "lastOpenFiles": [
+    "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
     "Attachments/IMG-Decor.jpg",
-    "Stats/Nat1s.md",
+    "Entries/Entries.md",
     "Stats/Sylphir Stats.md",
     "Entries/Test.md",
     "Entries/First session.md",
     "Entries/Second test.md",
-    "Entries/Entries.md",
     "Stats/Stats.md",
     "Stats/Untitled.base",
     "test/test.md",
