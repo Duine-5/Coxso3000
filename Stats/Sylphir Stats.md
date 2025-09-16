@@ -1,5 +1,5 @@
 ---
-Modified: Sep 16, 2025 9:07 PM
+Modified: Sep 16, 2025 9:09 PM
 ---
 
 ```dataviewjs
@@ -64,7 +64,7 @@ document.head.appendChild(script);
 TABLE Duine.Nat20 AS "Best Performance"
 FROM "Entries"
 WHERE file.name != "Entries" 
-SORT Duine.Nat20 DESC
+SORT Duine_Nat20 DESC
 LIMIT 5
 
 ```
