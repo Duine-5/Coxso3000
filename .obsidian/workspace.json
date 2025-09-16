@@ -242,13 +242,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Nat1s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nat1s"
+              "title": "Outline"
             }
           }
         ],
@@ -292,11 +291,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a6bbb253b8635bf1",
+  "active": "cff7906fae5c9c63",
   "lastOpenFiles": [
     "Stats/Decor.md",
-    "Stats/Nat20s.md",
     "Stats/Nat1s.md",
+    "Stats/Nat20s.md",
     "Entries/First session.md",
     "Entries/Test.md",
     "Entries/Entries.md",
