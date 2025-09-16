@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Stats"
+                "path": "test"
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "test"
             }
           },
           {
@@ -115,7 +115,7 @@
             }
           },
           {
-            "id": "d8429b3f21731e6e",
+            "id": "ee96186009c5efa0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -140,35 +140,6 @@
         "type": "tabs",
         "dimension": 59.41176470588235,
         "children": [
-          {
-            "id": "2166b3787e9fe4c8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_c88a9bca1b18",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 25,
-                    "month": 9,
-                    "year": 3000
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_cb29cbbaa9e9"
-              },
-              "pinned": true,
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
           {
             "id": "d6b2d2fa2159edd9",
             "type": "leaf",
@@ -263,12 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "test/Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled 1"
             }
           }
         ],
@@ -280,19 +252,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cff7906fae5c9c63",
+  "active": "4d1d036e92cbefc0",
   "lastOpenFiles": [
+    "test/Untitled 2.md",
+    "test/test.md",
+    "test/Untitled 1.md",
     "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
@@ -304,9 +278,6 @@
     "Entries/Second test.md",
     "Stats/Stats.md",
     "Stats/Untitled.base",
-    "test/test.md",
-    "test/Untitled 2.md",
-    "test/Untitled 1.md",
     "Stats/test.md",
     "test/Untitled 3.md",
     "test/Untitled.md",

@@ -1,12 +1,12 @@
 [
   "obsidian-git",
+  "make-md",
+  "obsidian-linter",
+  "attachment-management",
   "calendarium",
   "dataview",
   "obsidian-kanban",
-  "obsidian-style-settings",
-  "make-md",
-  "attachment-management",
   "mousewheel-image-zoom",
-  "obsidian-linter",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "obsidian-style-settings"
 ]
