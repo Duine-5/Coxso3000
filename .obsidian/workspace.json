@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Entries"
+                "path": "Stats"
               },
               "icon": "lucide-file",
-              "title": "Entries"
+              "title": "Stats"
             }
           },
           {
@@ -101,16 +101,13 @@
             }
           },
           {
-            "id": "21abf5eaae5ba9c4",
+            "id": "6c1c2cdd22585487",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -132,6 +129,7 @@
           {
             "id": "2166b3787e9fe4c8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "CALENDARIUM",
               "state": {
@@ -154,8 +152,10 @@
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_cb29cbbaa9e9"
+                "id": "ID_cb29cbbaa9e9",
+                "child": "ID_69f8bb3a195a"
               },
+              "pinned": true,
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
@@ -183,8 +183,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "177f6b390a9b138f",
+            "type": "leaf",
+            "state": {
+              "type": "make-context-view",
+              "state": {},
+              "icon": "component",
+              "title": "Explorer"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "1b182adc223c11f5",
@@ -266,6 +277,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_c88a9bca1b18",
                 "id": "ID_69f8bb3a195a",
                 "parent": "ID_cb29cbbaa9e9"
               },
@@ -288,22 +300,23 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "cff7906fae5c9c63",
   "lastOpenFiles": [
-    "Entries/Entries.md",
     "Stats/Nat1s.md",
-    "Stats/Decor.md",
     "Stats/Nat20s.md",
-    "Entries/Test.md",
+    "Stats/Decor.md",
     "Entries/First session.md",
+    "Entries/Test.md",
+    "Entries/Entries.md",
+    "Attachments/IMG-Decor.jpg",
+    "Stats/Stats.md",
     "Stats/Untitled.base",
     "Entries/Untitled.md",
-    "Attachments/IMG-Decor.jpg",
     "Stats/Sylphir Stats.md",
-    "Stats/Stats.md",
     "test/test.md",
     "test/Untitled 2.md",
     "test/Untitled 1.md",
