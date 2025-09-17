@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Stats/Individual Stats"
+                "path": "Stats"
               },
               "icon": "lucide-file",
-              "title": "Individual Stats"
+              "title": "Stats"
             }
           },
           {
@@ -137,7 +137,7 @@
       {
         "id": "7b4cb51df0012987",
         "type": "tabs",
-        "dimension": 59.41176470588235,
+        "dimension": 40,
         "children": [
           {
             "id": "c5382e41bae80a96",
@@ -204,7 +204,7 @@
       {
         "id": "1b182adc223c11f5",
         "type": "tabs",
-        "dimension": 40.588235294117645,
+        "dimension": 60,
         "children": [
           {
             "id": "fb78ec25aea9c9b8",
@@ -289,36 +289,36 @@
   },
   "active": "cff7906fae5c9c63",
   "lastOpenFiles": [
-    "Stats/Individual Stats/Individual Stats.md",
+    "Stats/Individual Stats/Sylphir Stats.md",
     "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
     "Attachments/IMG-Decor.jpg",
-    "Stats/Untitled.md",
     "Entries/Entries.md",
+    "Entries/First session.md",
+    "Entries/third test.md",
+    "Entries/Second test.md",
+    "Entries/Test.md",
+    "Characters/Jamril Valmont.md",
+    "Characters/J.md",
+    "Lore/Lore.md",
+    "World/World.md",
+    "Creatures/Creatures.md",
+    "Welcome to.md",
     "Stats/Individual Stats/Fanto Stats.md",
-    "Stats/Individual Stats/Sylphir Stats.md",
+    "Stats/Individual Stats/Individual Stats.md",
+    "Stats/Untitled.md",
     "Individual Stats/Individual Stats.md",
     "Untitled.md",
     "Stats/Individual Stats",
     "Individual Stats",
     "Attachments/IMG-Sylphir Stats.base",
-    "Entries/third test.md",
-    "Entries/Test.md",
-    "Entries/Second test.md",
-    "Entries/First session.md",
     "Stats/Stats.md",
     "test/Untitled 1.md",
     "test/Untitled 2.md",
     "test/test.md",
     "Stats/test.md",
-    "test/Untitled 3.md",
-    "test/Untitled.md",
     "test",
-    "Welcome to.md",
-    "Characters/Jamril Valmont.md",
-    "Templates/D.Entry.md",
-    "Stats/Duiine.md",
     "Attachments/IMG-Stats.jpg",
     "Stats",
     "Attachments/IMG-Welcome to.jpg",

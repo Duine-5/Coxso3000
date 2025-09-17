@@ -12,11 +12,11 @@ aliases:
 Allegiance: "[[The Nine Hells]]"
 Spellcaster level: "5"
 Appearance: Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png
-Modified: Sep 15, 2025 11:30 AM
+Modified: Sep 17, 2025 12:34 PM
 ---
 > [!Infobox|right]+
 > # `= this.file.name`
-> ![[IMG-Jomril Valmont.jpg|226]]
+> ![[IMG-Jomril Valmont.jpg|276]]
 > ## Archdevil of Hell
 > | Race: |  `= this.Race` |
 > | ---- | ---- |
