@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stats/Nat1s.md",
-                "mode": "source",
+                "file": "Stats/Individual Stats/Fanto Stats.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nat1s"
+              "title": "Fanto Stats"
             }
           },
           {
@@ -234,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Nat1s.md",
+                "file": "Stats/Individual Stats/Fanto Stats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nat1s"
+              "title": "Outline of Fanto Stats"
             }
           }
         ],
