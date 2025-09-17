@@ -175,18 +175,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "177f6b390a9b138f",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {},
-              "icon": "component",
-              "title": "Explorer"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1b182adc223c11f5",
@@ -246,13 +237,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Individual Stats/Sylphir Stats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sylphir Stats"
+              "title": "Outline"
             }
           }
         ],
@@ -275,15 +265,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c3719853b22ff3bf",
+  "active": "4f3a05be8e8c84c3",
   "lastOpenFiles": [
+    "Stats/Individual Stats/Sylphir Stats.md",
+    "Stats/Individual Stats/Fanto Stats.md",
     "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
     "Attachments/IMG-Decor.jpg",
-    "Stats/Individual Stats/Fanto Stats.md",
     "Tags",
-    "Stats/Individual Stats/Sylphir Stats.md",
     "Entries/Entries.md",
     "Entries/First session.md",
     "Entries/third test.md",
