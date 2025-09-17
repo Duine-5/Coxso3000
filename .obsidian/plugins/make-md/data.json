@@ -41,7 +41,8 @@
     "Characters/Characters.base",
     "Creatures",
     "Stats",
-    "test"
+    "test",
+    "Stats1"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
@@ -60,7 +61,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": true,
+  "inlineContextExpanded": false,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": false,
