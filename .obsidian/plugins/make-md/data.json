@@ -40,9 +40,7 @@
   "expandedSpaces": [
     "Characters/Characters.base",
     "Creatures",
-    "test",
-    "Stats1",
-    "Stats test"
+    "Stats/Stats/Individual Stats"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
@@ -61,7 +59,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": false,
@@ -108,7 +106,7 @@
     "flowState": false
   },
   "firstLaunch": true,
-  "notesPreview": false,
+  "notesPreview": true,
   "editStickerInSidebar": true,
   "overrideNativeMenu": false,
   "onboardingCompleted": false
