@@ -8,7 +8,7 @@ script.src = "https://cdn.plot.ly/plotly-latest.min.js";
 
 const player = "Fanto";
 
-const line2_colour = "193 17 90"
+const line2_colour = "96, 33, 192"
 
 
 script.onload = () => {
@@ -55,7 +55,7 @@ script.onload = () => {
     const layout = {
 	  title: {
       text: "Fantomax",
-	  font: { color: "#FB4648" }
+	  font: { color: `rgba(${line2_colour}, 1)`}
 	  },
 	  paper_bgcolor: "#171717",   // background outside chart
 	  plot_bgcolor: "#171717",    // background behind bars
