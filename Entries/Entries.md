@@ -1,6 +1,7 @@
 ---
-Modified: Sep 16, 2025 6:04 PM
+Modified: Sep 17, 2025 12:44 PM
 sticker: lucide//edit
+obsidianUIMode: preview
 ---
 # Remember//Leben
 
