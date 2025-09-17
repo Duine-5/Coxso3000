@@ -60,8 +60,8 @@ script.onload = () => {
 	  paper_bgcolor: "#171717",   // background outside chart
 	  plot_bgcolor: "#171717",    // background behind bars
 	  font: { color: "#BABABA" }, // axis + labels
-	  width: 800,
-	  height: 300,
+	  //width: 800,
+	  //height: 300,
 	  xaxis: {
         title: "",
         type: "date",   // <-- important

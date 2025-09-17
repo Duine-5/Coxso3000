@@ -38,8 +38,6 @@ script.onload = () => {
 	  paper_bgcolor: "#171717",   // background outside chart
 	  plot_bgcolor: "#171717",    // background behind bars
 	  font: { color: "#BABABA" }, // axis + labels
-	  width: 800,
-	  height: 300,
 	  xaxis: {
         title: "Date",
         type: "date",   // <-- important
@@ -63,5 +61,3 @@ document.head.appendChild(script);
 ![[IMG-Sylphir Stats.base#Sy-top]]
 ## - Historical Worst -
 ![[IMG-Sylphir Stats.base#Sy-low]]
-
-#Stats

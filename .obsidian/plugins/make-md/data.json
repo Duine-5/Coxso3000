@@ -6,7 +6,7 @@
   "blinkEnabled": true,
   "datePickerTime": false,
   "imageThumbnails": false,
-  "noteThumbnails": false,
+  "noteThumbnails": true,
   "spacesMDBInHidden": true,
   "cacheIndex": true,
   "spacesRightSplit": false,
@@ -40,6 +40,7 @@
   "expandedSpaces": [
     "Characters/Characters.base",
     "Creatures",
+    "Stats/Stats/Individual Stats",
     "Stats"
   ],
   "expandFolderOnClick": false,
@@ -106,7 +107,7 @@
     "flowState": false
   },
   "firstLaunch": true,
-  "notesPreview": false,
+  "notesPreview": true,
   "editStickerInSidebar": true,
   "overrideNativeMenu": false,
   "onboardingCompleted": false
