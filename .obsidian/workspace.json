@@ -115,7 +115,7 @@
             }
           },
           {
-            "id": "ee96186009c5efa0",
+            "id": "4d8fb6b70346c3af",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -259,10 +259,11 @@
       "templates:Insert template": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "4d1d036e92cbefc0",
+  "active": "d83e15d9c93ad948",
   "lastOpenFiles": [
     "test/Untitled 2.md",
     "test/test.md",
