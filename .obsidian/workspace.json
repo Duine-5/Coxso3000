@@ -101,7 +101,7 @@
             }
           },
           {
-            "id": "975a8e9b2d513413",
+            "id": "2ec640ec54e331c1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -199,7 +199,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entries/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +208,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -254,8 +253,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -276,50 +274,50 @@
   },
   "active": "180de96c54795e00",
   "lastOpenFiles": [
-    "Stats/Untitled.md",
-    "Attachments/IMG-Decor.jpg",
-    "Stats/Decor.md",
-    "Stats/Nat20s.md",
-    "Stats/Nat1s.md",
+    "Stats/Individual Stats/Individual Stats.md",
+    "Stats/Stats img.md",
+    "Stats/Decor.html",
+    "test/test.md",
     "test/Untitled 1.md",
     "test/Untitled 2.md",
-    "test/test.md",
     "Entries/Entries.md",
-    "Stats/Individual Stats/Spooky.md",
-    "Stats/Individual Stats/Sylphir .md",
+    "Stats/Individual Stats/Albertini.html",
     "Stats/Individual Stats/Albertini.md",
+    "Stats/Individual Stats/Spooky.html",
+    "Stats/Individual Stats/Spooky.md",
+    "Stats/Individual Stats/index.html",
+    "Stats/Individual Stats/Sylphir .html",
+    "Stats/Individual Stats/Jaeger.html",
+    "Stats/Individual Stats/Fanto.html",
+    "Stats/Untitled.html",
+    "Stats/Stats img.html",
+    "Stats/Nat20s.html",
+    "Stats/Stats.md",
+    "Lore/Lore.md",
     "Stats/Individual Stats/Jaeger.md",
     "Stats/Individual Stats/Fanto.md",
-    "Stats/Individual Stats/Individual Stats.md",
+    "Stats/Untitled.md",
+    "Stats/Nat20s.md",
+    "Stats/Nat1s.md",
+    "Stats/Decor.md",
+    "Creatures/Creatures.md",
+    "Welcome to.md",
+    "Attachments/IMG-Entries.jpg",
+    "Attachments/IMG-Stats img.jpg",
+    "Stats/Individual Stats/Sylphir .md",
     "Entries/First session.md",
     "Entries/third test.md",
     "Entries/Second test.md",
     "Entries/Test.md",
     "Characters/Jamril Valmont.md",
     "Characters/J.md",
-    "Lore/Lore.md",
-    "World/World.md",
-    "Creatures/Creatures.md",
-    "Welcome to.md",
-    "Individual Stats/Individual Stats.md",
-    "Stats/Individual Stats",
-    "Individual Stats",
-    "Attachments/IMG-Spooky.base",
-    "test",
     "Attachments/IMG-Stats.jpg",
-    "Stats",
     "Attachments/IMG-Welcome to.jpg",
-    "Attachments/IMG-Entries.jpg",
-    "Entries",
     "Attachments/IMG.GrilloA.jpg",
     "Attachments/IMG-Grillo.jpg",
     "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
     "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png",
     "Attachments/IMG-Tabris.jpg",
-    "Attachments/Textures/Cha-Bg.jpg",
-    "Bookmarks",
-    "Lore",
-    "Attachments/Textures",
-    "Tags"
+    "Attachments/Textures/Cha-Bg.jpg"
   ]
 }

@@ -106,7 +106,7 @@
     "flowState": false
   },
   "firstLaunch": true,
-  "notesPreview": true,
+  "notesPreview": false,
   "editStickerInSidebar": true,
   "overrideNativeMenu": false,
   "onboardingCompleted": false
