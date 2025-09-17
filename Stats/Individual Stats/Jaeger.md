@@ -6,7 +6,7 @@ Modified: Sep 17, 2025 11:55 AM
 const script = document.createElement("script");
 script.src = "https://cdn.plot.ly/plotly-latest.min.js";
 
-const player = "Fanto";
+const player = "Jaeger";
 
 const line2_colour = "96, 33, 192"
 
@@ -54,7 +54,7 @@ script.onload = () => {
     
     const layout = {
 	  title: {
-      text: "Fantomax",
+      text: player,
 	  font: { color: `rgba(${line2_colour}, 1)`}
 	  },
 	  paper_bgcolor: "#171717",   // background outside chart
@@ -82,7 +82,7 @@ document.head.appendChild(script);
 ---
 ## - Historical Best -
 
-![[IMG-Sylphir Stats.base#F-top]]
+![[IMG-Spooky.base#F-top]]
 ## - Historical Worst -
-![[IMG-Sylphir Stats.base#F-low]]
+![[IMG-Spooky.base#F-low]]
 

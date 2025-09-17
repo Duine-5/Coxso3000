@@ -11,14 +11,12 @@
             "id": "180de96c54795e00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Stats/Individual Stats/Fanto Stats.md",
-                "mode": "preview",
-                "source": false
+                "path": "Stats"
               },
               "icon": "lucide-file",
-              "title": "Fanto Stats"
+              "title": "Stats"
             }
           },
           {
@@ -103,7 +101,7 @@
             }
           },
           {
-            "id": "1f297d6d192759a9",
+            "id": "975a8e9b2d513413",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -248,13 +246,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Individual Stats/Fanto Stats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fanto Stats"
+              "title": "Outline"
             }
           }
         ],
@@ -273,18 +270,27 @@
       "templates:Insert template": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "180de96c54795e00",
   "lastOpenFiles": [
-    "Stats/Individual Stats/Fanto Stats.md",
-    "Stats/Individual Stats/Sylphir Stats.md",
-    "Stats/Nat1s.md",
-    "Stats/Nat20s.md",
-    "Stats/Decor.md",
+    "Stats/Untitled.md",
     "Attachments/IMG-Decor.jpg",
+    "Stats/Decor.md",
+    "Stats/Nat20s.md",
+    "Stats/Nat1s.md",
+    "test/Untitled 1.md",
+    "test/Untitled 2.md",
+    "test/test.md",
     "Entries/Entries.md",
+    "Stats/Individual Stats/Spooky.md",
+    "Stats/Individual Stats/Sylphir .md",
+    "Stats/Individual Stats/Albertini.md",
+    "Stats/Individual Stats/Jaeger.md",
+    "Stats/Individual Stats/Fanto.md",
+    "Stats/Individual Stats/Individual Stats.md",
     "Entries/First session.md",
     "Entries/third test.md",
     "Entries/Second test.md",
@@ -295,18 +301,10 @@
     "World/World.md",
     "Creatures/Creatures.md",
     "Welcome to.md",
-    "Stats/Individual Stats/Individual Stats.md",
-    "Stats/Untitled.md",
     "Individual Stats/Individual Stats.md",
-    "Untitled.md",
     "Stats/Individual Stats",
     "Individual Stats",
-    "Attachments/IMG-Sylphir Stats.base",
-    "Stats/Stats.md",
-    "test/Untitled 1.md",
-    "test/Untitled 2.md",
-    "test/test.md",
-    "Stats/test.md",
+    "Attachments/IMG-Spooky.base",
     "test",
     "Attachments/IMG-Stats.jpg",
     "Stats",
