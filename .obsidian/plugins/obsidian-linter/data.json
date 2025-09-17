@@ -280,7 +280,8 @@
     "Templates",
     "Attachments",
     "Bookmarks",
-    ""
+    "",
+    "Stats"
   ],
   "filesToIgnore": [],
   "linterLocale": "system-default",

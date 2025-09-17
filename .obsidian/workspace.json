@@ -13,19 +13,31 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "test"
+                "path": "Individual Stats"
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Individual Stats"
             }
           },
           {
-            "id": "ecf8e2520b9cd561",
+            "id": "8abf52b43fdda6b3",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Stats"
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
+            }
+          },
+          {
+            "id": "180de96c54795e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stats/Sylphir Stats.md",
+                "file": "Stats/Individual Stats/Sylphir Stats.md",
                 "mode": "source",
                 "source": false
               },
@@ -59,7 +71,8 @@
               "title": "Decor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             }
           },
           {
-            "id": "4d8fb6b70346c3af",
+            "id": "0dab822fb934708d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -140,6 +153,32 @@
         "type": "tabs",
         "dimension": 59.41176470588235,
         "children": [
+          {
+            "id": "c5382e41bae80a96",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_c88a9bca1b18",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 25,
+                    "month": 9,
+                    "year": 3000
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_e8bada3939ba"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
           {
             "id": "d6b2d2fa2159edd9",
             "type": "leaf",
@@ -234,13 +273,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline"
             }
           }
         ],
@@ -263,22 +301,29 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d83e15d9c93ad948",
+  "active": "0dab822fb934708d",
   "lastOpenFiles": [
-    "test/Untitled 2.md",
-    "test/test.md",
-    "test/Untitled 1.md",
     "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
     "Attachments/IMG-Decor.jpg",
+    "Untitled.md",
+    "Individual Stats/Individual Stats.md",
+    "Stats/Individual Stats",
+    "Stats/Untitled.md",
+    "Stats/Individual Stats/Sylphir Stats.md",
+    "Individual Stats",
     "Entries/Entries.md",
-    "Stats/Sylphir Stats.md",
+    "Stats/Individual Stats/Fanto Stats.md",
+    "Attachments/IMG-Sylphir Stats.base",
+    "Entries/third test.md",
     "Entries/Test.md",
-    "Entries/First session.md",
     "Entries/Second test.md",
+    "Entries/First session.md",
     "Stats/Stats.md",
-    "Stats/Untitled.base",
+    "test/Untitled 1.md",
+    "test/Untitled 2.md",
+    "test/test.md",
     "Stats/test.md",
     "test/Untitled 3.md",
     "test/Untitled.md",
@@ -289,11 +334,6 @@
     "Stats/Duiine.md",
     "Attachments/IMG-Stats.jpg",
     "Templates/Templates.md",
-    "World/World.md",
-    "Lore/Lore.md",
-    "Stats/Dario.md",
-    "Stats/Fanto.md",
-    "Stats/Spooky.md",
     "Stats",
     "Attachments/IMG-Welcome to.jpg",
     "Attachments/IMG-Entries.jpg",
@@ -307,8 +347,6 @@
     "Bookmarks",
     "Lore",
     "Attachments/Textures",
-    "Tags",
-    "Attachments/Characters/Jazmine",
-    "World"
+    "Tags"
   ]
 }

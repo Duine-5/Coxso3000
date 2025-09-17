@@ -1,7 +1,7 @@
 ---
-Modified: Sep 16, 2025 9:09 PM
+Modified: Sep 17, 2025 12:01 PM
 ---
-
+## - User Trend -
 ```dataviewjs
 const script = document.createElement("script");
 script.src = "https://cdn.plot.ly/plotly-latest.min.js";
@@ -32,7 +32,7 @@ script.onload = () => {
     
     const layout = {
 	  title: {
-      text: "Total Nat20s",
+      text: "Sylphir",
 	  font: { color: "#FB4648" }
 	  },
 	  paper_bgcolor: "#171717",   // background outside chart
@@ -41,7 +41,7 @@ script.onload = () => {
 	  width: 800,
 	  height: 300,
 	  xaxis: {
-        title: "Session Date",
+        title: "Date",
         type: "date",   // <-- important
         tickformat: "%b %d", // e.g., "Sep 07"
         tickangle: -45,
@@ -58,15 +58,10 @@ script.onload = () => {
 document.head.appendChild(script);
 ```
 ---
-## Historical Best
+## - Historical Best -
 
-```dataview
-TABLE Duine.Nat20 AS "Best Performance"
-FROM "Entries"
-WHERE file.name != "Entries" 
-SORT Duine_Nat20 DESC
-LIMIT 5
+![[IMG-Sylphir Stats.base#Sy-top]]
+## - Historical Worst -
+![[IMG-Sylphir Stats.base#Sy-low]]
 
-```
-
-![![Stats/#*Table]]
+#Stats

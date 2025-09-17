@@ -1,0 +1,184 @@
+views:
+  - type: table
+    name: Nat20
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - Duine_Nat20
+      - Fanto_Nat20
+      - Jaeger_Nat20
+      - Spooky_Nat20
+      - Dario_Nat20
+      - Albertini_Nat20
+  - type: table
+    name: Nat1
+  - type: cards
+    name: Sy-top
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - Duine_Nat20
+      - fc-date
+    sort:
+      - property: Duine_Nat20
+        direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: F-top
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - fc-date
+      - Fanto_Nat20
+    sort:
+      - property: Duine_Nat20
+        direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: A-top
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - Albertini_Nat20
+      - fc-date
+    sort:
+      - property: Duine_Nat20
+        direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: D-top
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - Dario_Nat20
+      - fc-date
+    sort:
+      - property: Duine_Nat20
+        direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: Sp-top
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - Spooky_Nat20
+      - fc-date
+    sort:
+      - property: Duine_Nat20
+        direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: Sy-low
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - Duine_Nat1
+      - fc-date
+    sort:
+      - property: Duine_Nat20
+        direction: ASC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: F-low
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - fc-date
+      - Fanto_Nat1
+    sort:
+      - property: Duine_Nat20
+        direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: A-low
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - Albertini_Nat20
+    sort:
+      - property: Duine_Nat20
+        direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: D-low
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - Dario_Nat20
+    sort:
+      - property: Duine_Nat20
+        direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: Sp-low
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - Spooky_Nat20
+    sort:
+      - property: Duine_Nat20
+        direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain

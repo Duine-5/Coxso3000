@@ -8,6 +8,7 @@
     "Race": "multitext",
     "Allegiance": "multitext",
     "Spellcaster": "number",
-    "Duine": "text"
+    "Duine": "text",
+    "Session-Date": "date"
   }
 }
