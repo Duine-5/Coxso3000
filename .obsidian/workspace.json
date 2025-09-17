@@ -65,11 +65,14 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "mk-path-view",
-              "state": {},
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
               "pinned": true,
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -98,8 +101,19 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "1f297d6d192759a9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -259,8 +273,7 @@
       "templates:Insert template": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "180de96c54795e00",
