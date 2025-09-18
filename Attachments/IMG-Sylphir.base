@@ -7,14 +7,27 @@ views:
         - file.name != "Entries"
     order:
       - file.name
-      - Duine_Nat20
+      - Sylphir_Nat20
       - Fanto_Nat20
       - Jaeger_Nat20
       - Spooky_Nat20
       - Dario_Nat20
       - Albertini_Nat20
+    sort: []
   - type: table
     name: Nat1
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - Sylphir_Nat1
+      - Albertini_Nat1
+      - Dario_Nat1
+      - Fanto_Nat1
+      - Jaeger_Nat1
+      - Spooky_Nat1
   - type: cards
     name: Sy-top
     filters:
@@ -24,9 +37,9 @@ views:
     order:
       - file.name
       - fc-date
-      - Duine_Nat20
+      - Sylphir_Nat20
     sort:
-      - property: Duine_Nat20
+      - property: Sylphir_Nat20
         direction: DESC
     limit: 3
     cardSize: 200
@@ -109,9 +122,9 @@ views:
     order:
       - file.name
       - fc-date
-      - Duine_Nat1
+      - Sylphir_Nat1
     sort:
-      - property: Duine_Nat20
+      - property: Sylphir_Nat1
         direction: DESC
     limit: 3
     cardSize: 200

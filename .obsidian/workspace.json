@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "180de96c54795e00",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Stats"
-              },
-              "icon": "lucide-file",
-              "title": "Stats"
-            }
-          },
-          {
-            "id": "c1988a81ae2867fc",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Stats"
-              },
-              "icon": "lucide-file",
-              "title": "Stats"
-            }
-          },
-          {
             "id": "0e4dbe60b44e8b4e",
             "type": "leaf",
             "state": {
@@ -69,8 +45,7 @@
               "title": "Decor"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,13 +236,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Individual Stats/Sylphir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sylphir"
+              "title": "Outline"
             }
           }
         ],
@@ -290,26 +264,28 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6c92bd5fd9298ea9",
+  "active": "0e4dbe60b44e8b4e",
   "lastOpenFiles": [
+    "Stats/Individual Stats/Sylphir.md",
     "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
     "Attachments/IMG-Decor.jpg",
-    "Stats/Individual Stats/Sylphir.md",
-    "Entries/third test.md",
-    "Entries/Second test.md",
-    "Entries/First session.md",
-    "Entries/Test.md",
     "Entries/Entries.md",
-    "Stats/Individual Stats/Fanto.md",
-    "Stats/Individual Stats/Sylphir Stats.md",
-    "Stats/Individual Stats/Individual Stats.md",
-    "Stats/Individual Stats/Spooky.md",
     "Stats/Individual Stats/Dario.md",
+    "Stats/Individual Stats/Spooky.md",
     "Stats/Individual Stats/Jaeger.md",
     "Stats/Individual Stats/Albertini.md",
+    "Stats/Individual Stats/Fanto.md",
     "Attachments/IMG-Sylphir.base",
+    "Attachments/IMG-Tabris.jpg",
+    "Entries/First session.md",
+    "Entries/Test.md",
+    "Entries/third test.md",
+    "Attachments/IMG-Welcome to.jpg",
+    "Entries/Second test.md",
+    "Stats/Individual Stats/Sylphir Stats.md",
+    "Stats/Individual Stats/Individual Stats.md",
     "Tags",
     "Characters/Jamril Valmont.md",
     "Characters/J.md",
@@ -325,14 +301,12 @@
     "test",
     "Attachments/IMG-Stats.jpg",
     "Stats",
-    "Attachments/IMG-Welcome to.jpg",
     "Attachments/IMG-Entries.jpg",
     "Entries",
     "Attachments/IMG.GrilloA.jpg",
     "Attachments/IMG-Grillo.jpg",
     "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
     "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png",
-    "Attachments/IMG-Tabris.jpg",
     "Attachments/Textures/Cha-Bg.jpg",
     "Bookmarks",
     "Lore",

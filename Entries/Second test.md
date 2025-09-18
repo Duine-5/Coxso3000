@@ -11,4 +11,6 @@ Dario_Nat20: 3
 Fanto_Nat20: 5
 Fanto_Nat1: 11
 Session-Date: 2025-10-09T00:00:00.000Z
+Sylphir_Nat20: 2
+Sylphir_Nat1: 22
 ---
