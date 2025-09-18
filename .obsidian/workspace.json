@@ -11,14 +11,12 @@
             "id": "180de96c54795e00",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Stats/Individual Stats/Jaeger.md",
-                "mode": "source",
-                "source": false
+                "path": "Stats"
               },
               "icon": "lucide-file",
-              "title": "Jaeger"
+              "title": "Stats"
             }
           },
           {
@@ -115,7 +113,7 @@
             }
           },
           {
-            "id": "248085d2c8495190",
+            "id": "525030083bd13b8d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -279,20 +277,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "80b40fd6c191fce2",
+  "active": "e4f8a601baa11a7b",
   "lastOpenFiles": [
     "Stats/Nat20s.md",
     "Stats/Decor.md",
-    "Attachments/IMG-Decor.jpg",
-    "Stats/Individual Stats/Jaeger.md",
-    "Stats/Individual Stats/Spooky.md",
-    "Stats/Individual Stats/Fanto.md",
-    "Stats/Individual Stats/Sylphir.md",
     "Stats/Nat1s.md",
+    "Attachments/IMG-Decor.jpg",
+    "Stats/Individual Stats/Sylphir Stats.md",
     "Stats/Individual Stats/Albertini.md",
-    "Attachments/IMG-Sylphir.base",
+    "Stats/Individual Stats/Jaeger.md",
+    "Stats/Individual Stats/Fanto.md",
     "Stats/Individual Stats/Dario.md",
+    "Stats/Individual Stats/Spooky.md",
+    "Stats/Individual Stats/Sylphir.md",
     "Entries/Entries.md",
+    "Attachments/IMG-Sylphir.base",
     "Tags",
     "Entries/First session.md",
     "Entries/third test.md",
@@ -310,7 +309,6 @@
     "Untitled.md",
     "Stats/Individual Stats",
     "Individual Stats",
-    "Stats/Stats.md",
     "test",
     "Attachments/IMG-Stats.jpg",
     "Stats",

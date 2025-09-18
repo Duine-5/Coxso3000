@@ -8,7 +8,7 @@ script.src = "https://cdn.plot.ly/plotly-latest.min.js";
 
 const player = "Spooky";
 
-const line2_colour = "96, 33, 192"
+const line2_colour = "88, 100, 29"
 
 
 script.onload = () => {
