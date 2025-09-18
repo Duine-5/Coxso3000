@@ -39,8 +39,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "Characters/Characters.base",
-    "Creatures",
-    "Stats/Stats/Individual Stats"
+    "Creatures"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",

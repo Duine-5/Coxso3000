@@ -32,5 +32,5 @@ Modified: Sep 15, 2025 11:30 AM
 # Relationships
 [[Tabris]] - Besto friendo
 [[Grillo]] - Friendo
-[[Dario]] - Friendo
+[[Characters/Dario]] - Friendo
 [[Fanto]] - 

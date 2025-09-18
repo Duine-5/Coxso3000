@@ -57,8 +57,8 @@ views:
         - file.name != "Entries"
     order:
       - file.name
-      - Albertini_Nat20
       - fc-date
+      - Albertini_Nat20
     sort:
       - property: Duine_Nat20
         direction: DESC
@@ -129,7 +129,7 @@ views:
       - Fanto_Nat1
     sort:
       - property: Duine_Nat20
-        direction: DESC
+        direction: ASC
     limit: 3
     cardSize: 200
     imageAspectRatio: 0.25
@@ -142,6 +142,7 @@ views:
         - file.name != "Entries"
     order:
       - file.name
+      - fc-date
       - Albertini_Nat20
     sort:
       - property: Duine_Nat20
@@ -174,10 +175,45 @@ views:
         - file.name != "Entries"
     order:
       - file.name
+      - fc-date
       - Spooky_Nat20
     sort:
       - property: Duine_Nat20
         direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: J-top
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - fc-date
+      - Jaeger_Nat20
+    sort:
+      - property: Duine_Nat20
+        direction: DESC
+    limit: 3
+    cardSize: 200
+    imageAspectRatio: 0.25
+    imageFit: contain
+  - type: cards
+    name: J-low
+    filters:
+      and:
+        - file.folder == "Entries"
+        - file.name != "Entries"
+    order:
+      - file.name
+      - fc-date
+      - Jaeger_Nat1
+    sort:
+      - property: Duine_Nat20
+        direction: ASC
     limit: 3
     cardSize: 200
     imageAspectRatio: 0.25
