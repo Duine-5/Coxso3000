@@ -23,8 +23,8 @@ views:
         - file.name != "Entries"
     order:
       - file.name
-      - Duine_Nat20
       - fc-date
+      - Duine_Nat20
     sort:
       - property: Duine_Nat20
         direction: DESC
@@ -43,7 +43,7 @@ views:
       - fc-date
       - Fanto_Nat20
     sort:
-      - property: Duine_Nat20
+      - property: Fanto_Nat20
         direction: DESC
     limit: 3
     cardSize: 200
@@ -112,7 +112,7 @@ views:
       - Duine_Nat1
     sort:
       - property: Duine_Nat20
-        direction: ASC
+        direction: DESC
     limit: 3
     cardSize: 200
     imageAspectRatio: 0.25
@@ -128,8 +128,8 @@ views:
       - fc-date
       - Fanto_Nat1
     sort:
-      - property: Spooky_Nat1
-        direction: ASC
+      - property: Fanto_Nat1
+        direction: DESC
     limit: 3
     cardSize: 200
     imageAspectRatio: 0.25

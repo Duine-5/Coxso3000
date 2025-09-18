@@ -126,7 +126,7 @@
             }
           },
           {
-            "id": "eaeb9546beb41f26",
+            "id": "189c1252d7857509",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -261,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Individual Stats/Jaeger.md",
+                "file": "Stats/Individual Stats/Sylphir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jaeger"
+              "title": "Outline of Sylphir"
             }
           }
         ],
@@ -290,33 +290,33 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6f3c3257a53e167f",
+  "active": "6c92bd5fd9298ea9",
   "lastOpenFiles": [
-    "Stats/Individual Stats/Albertini.md",
-    "Stats/Individual Stats/Fanto.md",
-    "Stats/Individual Stats/Dario.md",
-    "Stats/Individual Stats/Spooky.md",
-    "Stats/Individual Stats/Jaeger.md",
-    "Stats/Individual Stats/Sylphir Stats.md",
-    "Stats/Individual Stats/Sylphir.md",
     "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
     "Attachments/IMG-Decor.jpg",
-    "Attachments/IMG-Sylphir.base",
-    "Entries/Entries.md",
-    "Tags",
-    "Entries/First session.md",
+    "Stats/Individual Stats/Sylphir.md",
     "Entries/third test.md",
     "Entries/Second test.md",
+    "Entries/First session.md",
     "Entries/Test.md",
+    "Entries/Entries.md",
+    "Stats/Individual Stats/Fanto.md",
+    "Stats/Individual Stats/Sylphir Stats.md",
+    "Stats/Individual Stats/Individual Stats.md",
+    "Stats/Individual Stats/Spooky.md",
+    "Stats/Individual Stats/Dario.md",
+    "Stats/Individual Stats/Jaeger.md",
+    "Stats/Individual Stats/Albertini.md",
+    "Attachments/IMG-Sylphir.base",
+    "Tags",
     "Characters/Jamril Valmont.md",
     "Characters/J.md",
     "Lore/Lore.md",
     "World/World.md",
     "Creatures/Creatures.md",
     "Welcome to.md",
-    "Stats/Individual Stats/Individual Stats.md",
     "Stats/Untitled.md",
     "Individual Stats/Individual Stats.md",
     "Untitled.md",

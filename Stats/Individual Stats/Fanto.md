@@ -85,4 +85,3 @@ document.head.appendChild(script);
 ![[IMG-Sylphir.base#F-top]]
 ## - Historical Worst -
 ![[IMG-Sylphir.base#F-low]]
-
