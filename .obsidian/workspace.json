@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c1988a81ae2867fc",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Stats"
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
+            }
+          },
+          {
             "id": "0e4dbe60b44e8b4e",
             "type": "leaf",
             "state": {
@@ -57,7 +69,8 @@
               "title": "Decor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             }
           },
           {
-            "id": "525030083bd13b8d",
+            "id": "eaeb9546beb41f26",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -248,13 +261,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Nat1s.md",
+                "file": "Stats/Individual Stats/Jaeger.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nat1s"
+              "title": "Outline of Jaeger"
             }
           }
         ],
@@ -277,21 +290,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e4f8a601baa11a7b",
+  "active": "6f3c3257a53e167f",
   "lastOpenFiles": [
-    "Stats/Nat20s.md",
-    "Stats/Decor.md",
-    "Stats/Nat1s.md",
-    "Attachments/IMG-Decor.jpg",
-    "Stats/Individual Stats/Sylphir Stats.md",
     "Stats/Individual Stats/Albertini.md",
-    "Stats/Individual Stats/Jaeger.md",
     "Stats/Individual Stats/Fanto.md",
     "Stats/Individual Stats/Dario.md",
     "Stats/Individual Stats/Spooky.md",
+    "Stats/Individual Stats/Jaeger.md",
+    "Stats/Individual Stats/Sylphir Stats.md",
     "Stats/Individual Stats/Sylphir.md",
-    "Entries/Entries.md",
+    "Stats/Nat1s.md",
+    "Stats/Nat20s.md",
+    "Stats/Decor.md",
+    "Attachments/IMG-Decor.jpg",
     "Attachments/IMG-Sylphir.base",
+    "Entries/Entries.md",
     "Tags",
     "Entries/First session.md",
     "Entries/third test.md",

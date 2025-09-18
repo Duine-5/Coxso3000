@@ -8,7 +8,7 @@ script.src = "https://cdn.plot.ly/plotly-latest.min.js";
 
 const player = "Jaeger";
 
-const line2_colour = "96, 33, 192"
+const line2_colour = "253, 62, 129"
 
 
 script.onload = () => {
@@ -82,7 +82,7 @@ document.head.appendChild(script);
 ---
 ## - Historical Best -
 
-![[IMG-Sylphir.base#F-top]]
+![[IMG-Sylphir.base#J-top]]
 ## - Historical Worst -
-![[IMG-Sylphir.base#F-low]]
+![[IMG-Sylphir.base#J-low]]
 
