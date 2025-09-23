@@ -101,7 +101,7 @@
             }
           },
           {
-            "id": "189c1252d7857509",
+            "id": "2f3daaf97b93c8a5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -236,12 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Stats/Nat1s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Nat1s"
             }
           }
         ],
@@ -264,19 +265,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0e4dbe60b44e8b4e",
+  "active": "537728bc6e2b20fd",
   "lastOpenFiles": [
-    "Stats/Individual Stats/Sylphir.md",
-    "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
     "Attachments/IMG-Decor.jpg",
-    "Entries/Entries.md",
-    "Stats/Individual Stats/Dario.md",
-    "Stats/Individual Stats/Spooky.md",
-    "Stats/Individual Stats/Jaeger.md",
+    "Stats/Nat1s.md",
     "Stats/Individual Stats/Albertini.md",
+    "Stats/Individual Stats/Spooky.md",
+    "Stats/Individual Stats/Dario.md",
+    "Stats/Individual Stats/Jaeger.md",
+    "Stats/Individual Stats/Sylphir.md",
     "Stats/Individual Stats/Fanto.md",
+    "Entries/Entries.md",
     "Attachments/IMG-Sylphir.base",
     "Attachments/IMG-Tabris.jpg",
     "Entries/First session.md",
