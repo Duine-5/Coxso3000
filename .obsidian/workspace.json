@@ -101,7 +101,7 @@
             }
           },
           {
-            "id": "2f3daaf97b93c8a5",
+            "id": "dde36a4517afdef6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -236,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Nat1s.md",
+                "file": "Stats/Individual Stats/Sylphir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nat1s"
+              "title": "Outline of Sylphir"
             }
           }
         ],
@@ -265,18 +265,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "537728bc6e2b20fd",
+  "active": "0fa1bf07523dc38b",
   "lastOpenFiles": [
+    "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
     "Attachments/IMG-Decor.jpg",
-    "Stats/Nat1s.md",
+    "Stats/Individual Stats/Jaeger.md",
     "Stats/Individual Stats/Albertini.md",
+    "Stats/Individual Stats/Fanto.md",
+    "Stats/Individual Stats/Sylphir.md",
     "Stats/Individual Stats/Spooky.md",
     "Stats/Individual Stats/Dario.md",
-    "Stats/Individual Stats/Jaeger.md",
-    "Stats/Individual Stats/Sylphir.md",
-    "Stats/Individual Stats/Fanto.md",
     "Entries/Entries.md",
     "Attachments/IMG-Sylphir.base",
     "Attachments/IMG-Tabris.jpg",
