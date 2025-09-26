@@ -6,7 +6,8 @@ Race:
 aliases:
 Allegiance:
 Spellcaster level:
-Modified: Sep 15, 2025 11:31 AM
+Modified: Sep 26, 2025 2:07 PM
+obsidianUIMode: preview
 ---
 > [!Infobox|right]+
 > # `= this.file.name`

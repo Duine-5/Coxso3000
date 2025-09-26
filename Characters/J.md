@@ -9,7 +9,7 @@ Allegiance:
 Spellcaster level: 0
 banner:
 Appearance: Attachments/Characters/J/IMG-J.png
-Modified: Sep 15, 2025 11:30 AM
+Modified: Sep 26, 2025 1:55 PM
 ---
 > [!Infobox|right]+
 > # `= this.file.name`

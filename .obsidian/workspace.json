@@ -4,45 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d34a72237f7ee177",
+        "id": "f6453f81e3739734",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4dbe60b44e8b4e",
+            "id": "4dc789de80f08b36",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Stats"
+                "path": "Characters"
               },
               "icon": "lucide-file",
-              "title": "Stats"
-            }
-          },
-          {
-            "id": "0878598f83f34c99",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Stats"
-              },
-              "icon": "lucide-file",
-              "title": "Stats"
-            }
-          },
-          {
-            "id": "35f5fda1238ca48b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stats/Decor.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Decor"
+              "title": "Characters"
             }
           }
         ]
@@ -57,6 +31,7 @@
       {
         "id": "b5e0c115e4934110",
         "type": "tabs",
+        "dimension": 64.03688524590164,
         "children": [
           {
             "id": "0dab822fb934708d",
@@ -101,7 +76,7 @@
             }
           },
           {
-            "id": "dde36a4517afdef6",
+            "id": "5992561e0768dcea",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -112,10 +87,27 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "26f06bdc418c5f1e",
+        "type": "tabs",
+        "dimension": 35.96311475409836,
+        "children": [
+          {
+            "id": "0e4dbe60b44e8b4e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
     "id": "6c565a43733d192a",
@@ -236,13 +228,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Individual Stats/Sylphir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sylphir"
+              "title": "Outline"
             }
           }
         ],
@@ -262,41 +253,45 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0fa1bf07523dc38b",
+  "active": "4dc789de80f08b36",
   "lastOpenFiles": [
+    "Stats/Individual Stats/Sylphir.md",
     "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
     "Attachments/IMG-Decor.jpg",
-    "Stats/Individual Stats/Jaeger.md",
-    "Stats/Individual Stats/Albertini.md",
-    "Stats/Individual Stats/Fanto.md",
-    "Stats/Individual Stats/Sylphir.md",
-    "Stats/Individual Stats/Spooky.md",
-    "Stats/Individual Stats/Dario.md",
+    "Characters/jajajo.md",
+    "Attachments/images.jpg",
+    "Characters/Grillo.md",
+    "Characters/Dario.md",
+    "Characters/J.md",
+    "Templates/Character.md",
+    "Characters/Hydrad.md",
     "Entries/Entries.md",
-    "Attachments/IMG-Sylphir.base",
-    "Attachments/IMG-Tabris.jpg",
-    "Entries/First session.md",
     "Entries/Test.md",
     "Entries/third test.md",
-    "Attachments/IMG-Welcome to.jpg",
     "Entries/Second test.md",
-    "Stats/Individual Stats/Sylphir Stats.md",
-    "Stats/Individual Stats/Individual Stats.md",
-    "Tags",
+    "Entries/First session.md",
+    "test/Untitled 1.md",
+    "test/Untitled 2.md",
+    "test/test.md",
     "Characters/Jamril Valmont.md",
-    "Characters/J.md",
+    "Attachments/tumblr_5a96bef0df4bef9686f7dc6655823c90_1ac4b837_1280.png",
+    "Welcome to.md",
     "Lore/Lore.md",
+    "Attachments/IMG-Hydrad.png",
     "World/World.md",
     "Creatures/Creatures.md",
-    "Welcome to.md",
-    "Stats/Untitled.md",
-    "Individual Stats/Individual Stats.md",
-    "Untitled.md",
+    "Stats/Individual Stats/Spooky.md",
+    "Stats/Individual Stats/Albertini.md",
+    "Attachments/IMG-Sylphir.base",
+    "Attachments/IMG-Tabris.jpg",
+    "Attachments/IMG-Welcome to.jpg",
+    "Tags",
     "Stats/Individual Stats",
     "Individual Stats",
     "test",
@@ -306,9 +301,6 @@
     "Entries",
     "Attachments/IMG.GrilloA.jpg",
     "Attachments/IMG-Grillo.jpg",
-    "Attachments/Characters/Jamril Valmont/IMG-Jomril Valmont.jpg",
-    "Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png",
-    "Attachments/Textures/Cha-Bg.jpg",
     "Bookmarks",
     "Lore",
     "Attachments/Textures"

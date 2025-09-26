@@ -7,8 +7,9 @@ Race:
 aliases:
 Allegiance:
 Spellcaster level:
-Modified: Sep 15, 2025 11:30 AM
+Modified: Sep 26, 2025 2:10 PM
 Appearance: Attachments/IMG.GrilloA.jpg
+obsidianUIMode: preview
 ---
 > [!Infobox|right]+
 > # `= this.file.name`

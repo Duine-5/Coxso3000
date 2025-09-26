@@ -12,7 +12,7 @@ aliases:
 Allegiance: "[[The Nine Hells]]"
 Spellcaster level: "5"
 Appearance: Attachments/Characters/Jamril Valmont/IMG-Jamril Valmont.png
-Modified: Sep 17, 2025 12:34 PM
+Modified: Sep 26, 2025 1:55 PM
 ---
 > [!Infobox|right]+
 > # `= this.file.name`
