@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "1ee226b297e26fb3",
+            "id": "c0c253ea2625881e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -118,7 +118,7 @@
       {
         "id": "7b4cb51df0012987",
         "type": "tabs",
-        "dimension": 52.54901960784314,
+        "dimension": 52.549019607843135,
         "children": [
           {
             "id": "c5382e41bae80a96",
@@ -170,12 +170,13 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1b182adc223c11f5",
         "type": "tabs",
-        "dimension": 47.45098039215686,
+        "dimension": 47.450980392156865,
         "children": [
           {
             "id": "fb78ec25aea9c9b8",
@@ -260,10 +261,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c5382e41bae80a96",
+  "active": "4f3a05be8e8c84c3",
   "lastOpenFiles": [
-    "Templates/Session notes.md",
+    "Entries/Entries.md",
+    "Characters/Jazmine.md",
     "Entries/Pazuzu.md",
+    "Templates/Session notes.md",
     "Stats/Nat20s.md",
     "Stats/Individual Stats/Sylphir.md",
     "Stats/Nat1s.md",
@@ -271,10 +274,8 @@
     "Attachments/IMG-Decor.jpg",
     "Entries/Test.md",
     "Entries/Second test.md",
-    "Entries/Entries.md",
     "Characters/Hydrad.md",
     "Characters/jajajo.md",
-    "Characters/Jazmine.md",
     "Characters/Grillo.md",
     "Attachments/images.jpg",
     "Characters/Dario.md",
