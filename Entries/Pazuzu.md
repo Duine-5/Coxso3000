@@ -1,5 +1,9 @@
 ---
-Modified: Sep 28, 2025 4:31 PM
+
+Modified: Sep 28, 2025 4:33 PM
+
+
+
 Session-Date: 2025-10-24T00:00:00.000Z
 Sylphir_Nat20: .nan
 Sylphir_Nat1: .nan
@@ -12,7 +16,7 @@ Spooky_Nat1: 1
 > [!quote|mark]  ///
 > Do not forget
 
-We went over and killed Sebastian Sulfarion, nothing else to see here
+We went over and killed Sulfaerion, nothing else to see here
 
 
 

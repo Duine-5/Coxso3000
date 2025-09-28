@@ -41,7 +41,8 @@
     "Characters/Characters.base",
     "Creatures",
     "Characters",
-    "Entries"
+    "Entries",
+    "test"
   ],
   "expandFolderOnClick": false,
   "spacesFolder": "Tags",
@@ -57,6 +58,7 @@
     "_blocks"
   ],
   "newFileLocation": "current",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
