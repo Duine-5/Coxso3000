@@ -118,7 +118,7 @@
       {
         "id": "7b4cb51df0012987",
         "type": "tabs",
-        "dimension": 40,
+        "dimension": 52.54901960784314,
         "children": [
           {
             "id": "c5382e41bae80a96",
@@ -131,7 +131,7 @@
                   "viewState": 1,
                   "displaying": {
                     "day": 25,
-                    "month": 9,
+                    "month": 10,
                     "year": 3000
                   },
                   "displayDayNumber": false,
@@ -175,7 +175,7 @@
       {
         "id": "1b182adc223c11f5",
         "type": "tabs",
-        "dimension": 60,
+        "dimension": 47.45098039215686,
         "children": [
           {
             "id": "fb78ec25aea9c9b8",
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entries/Untitled.md",
+                "file": "Entries/Pazuzu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Pazuzu"
             }
           },
           {
@@ -260,15 +260,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "898a16218954a1d0",
+  "active": "c5382e41bae80a96",
   "lastOpenFiles": [
-    "Entries/Second test.md",
+    "Templates/Session notes.md",
+    "Entries/Pazuzu.md",
+    "Stats/Nat20s.md",
     "Stats/Individual Stats/Sylphir.md",
     "Stats/Nat1s.md",
-    "Stats/Nat20s.md",
     "Stats/Decor.md",
     "Attachments/IMG-Decor.jpg",
-    "Entries/Pazuzu.md",
+    "Entries/Test.md",
+    "Entries/Second test.md",
     "Entries/Entries.md",
     "Characters/Hydrad.md",
     "Characters/jajajo.md",
@@ -278,7 +280,6 @@
     "Characters/Dario.md",
     "Characters/J.md",
     "Templates/Character.md",
-    "Entries/Test.md",
     "Entries/First session.md",
     "test/Untitled 1.md",
     "test/Untitled 2.md",
