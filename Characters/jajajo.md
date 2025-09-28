@@ -6,8 +6,8 @@ aliases:
 Allegiance:
 Spellcaster level:
 obsidianUIMode: preview
-Appearance: Attachments/IMG.<% tp.file.title %>.jpg
-Modified: Sep 26, 2025 2:15 PM
+Modified: Sep 26, 2025 2:19 PM
+Appearance: Attachments/images.jpg
 ---
 > [!Infobox|right]+
 > # `= this.file.name`

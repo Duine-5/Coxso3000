@@ -7,8 +7,8 @@ Race:
 aliases:
 Allegiance:
 Spellcaster level:
-Modified: Sep 26, 2025 2:07 PM
-Appearance:
+Modified: Sep 26, 2025 2:20 PM
+Appearance: Attachments/tumblr_5a96bef0df4bef9686f7dc6655823c90_1ac4b837_1280.png
 obsidianUIMode: preview
 ---
 > [!Infobox|right]+
@@ -25,7 +25,7 @@ obsidianUIMode: preview
 
 ## Ideals
 ---
-
+sss
 # Lore
 ---
 

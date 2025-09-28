@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f6453f81e3739734",
+        "id": "b3802a214aa8347e",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc789de80f08b36",
+            "id": "898a16218954a1d0",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Characters"
+                "path": "Stats"
               },
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "Stats"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "5992561e0768dcea",
+            "id": "1ee226b297e26fb3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -228,12 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Stats/Nat1s.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Nat1s"
             }
           }
         ],
@@ -257,20 +258,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4dc789de80f08b36",
+  "active": "3f0699d29b3fc177",
   "lastOpenFiles": [
-    "Stats/Individual Stats/Sylphir.md",
-    "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
+    "Stats/Nat1s.md",
     "Attachments/IMG-Decor.jpg",
+    "Characters/Hydrad.md",
     "Characters/jajajo.md",
-    "Attachments/images.jpg",
+    "Characters/Jazmine.md",
     "Characters/Grillo.md",
+    "Stats/Individual Stats/Sylphir.md",
+    "Attachments/images.jpg",
     "Characters/Dario.md",
     "Characters/J.md",
     "Templates/Character.md",
-    "Characters/Hydrad.md",
     "Entries/Entries.md",
     "Entries/Test.md",
     "Entries/third test.md",
@@ -287,7 +289,6 @@
     "World/World.md",
     "Creatures/Creatures.md",
     "Stats/Individual Stats/Spooky.md",
-    "Stats/Individual Stats/Albertini.md",
     "Attachments/IMG-Sylphir.base",
     "Attachments/IMG-Tabris.jpg",
     "Attachments/IMG-Welcome to.jpg",
