@@ -5,4 +5,5 @@ Sylphir_Nat20: .nan
 Sylphir_Nat1: .nan
 Albertini_Nat20: 1
 Spooky_Nat20: 2
+Fanto_Nat20: 1
 ---
