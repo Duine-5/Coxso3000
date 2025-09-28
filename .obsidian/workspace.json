@@ -11,12 +11,14 @@
             "id": "898a16218954a1d0",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Stats"
+                "file": "Entries/Pazuzu.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Pazuzu"
             }
           }
         ]
@@ -228,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stats/Nat1s.md",
+                "file": "Entries/Pazuzu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nat1s"
+              "title": "Outline of Pazuzu"
             }
           }
         ],
@@ -258,25 +260,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3f0699d29b3fc177",
+  "active": "898a16218954a1d0",
   "lastOpenFiles": [
+    "Entries/Second test.md",
+    "Stats/Individual Stats/Sylphir.md",
+    "Stats/Nat1s.md",
     "Stats/Nat20s.md",
     "Stats/Decor.md",
-    "Stats/Nat1s.md",
     "Attachments/IMG-Decor.jpg",
+    "Entries/Pazuzu.md",
+    "Entries/Entries.md",
     "Characters/Hydrad.md",
     "Characters/jajajo.md",
     "Characters/Jazmine.md",
     "Characters/Grillo.md",
-    "Stats/Individual Stats/Sylphir.md",
     "Attachments/images.jpg",
     "Characters/Dario.md",
     "Characters/J.md",
     "Templates/Character.md",
-    "Entries/Entries.md",
     "Entries/Test.md",
-    "Entries/third test.md",
-    "Entries/Second test.md",
     "Entries/First session.md",
     "test/Untitled 1.md",
     "test/Untitled 2.md",
