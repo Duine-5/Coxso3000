@@ -3,9 +3,9 @@ Modified: Sep 28, 2025 4:33 PM
 Session-Date: 2025-10-24T00:00:00.000Z
 Sylphir_Nat20: .nan
 Sylphir_Nat1: .nan
-Albertini_Nat20: 3
+Albertini_Nat20: 4
 Spooky_Nat20: 6
-Fanto_Nat20: .nan
+Fanto_Nat20: 2
 Spooky_Nat1: .nan
 ---
 # Fleeting memory//
