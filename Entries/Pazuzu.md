@@ -3,8 +3,8 @@ Modified: Sep 28, 2025 4:33 PM
 Session-Date: 2025-10-24T00:00:00.000Z
 Sylphir_Nat20: .nan
 Sylphir_Nat1: .nan
-Albertini_Nat20: 1
-Spooky_Nat20: 2
+Albertini_Nat20: 2
+Spooky_Nat20: 5
 Fanto_Nat20: .nan
 Spooky_Nat1: .nan
 ---
